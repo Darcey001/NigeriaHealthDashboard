@@ -1,0 +1,13 @@
+# Render Blueprint: one free Python web service running the Streamlit app.
+# On render.com: New → Blueprint → pick this repo.
+services:
+  - type: web
+    name: nigeria-health-dashboard
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.13.5"
