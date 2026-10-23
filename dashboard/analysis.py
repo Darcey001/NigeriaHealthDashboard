@@ -10,6 +10,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from dashboard.indicators import REGIONS
+
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "health_indicators.csv"
 
 
@@ -66,16 +68,16 @@ JOIN health l ON l.indicator = :indicator AND l.country = :country AND l.year = 
 """
 
 MALARIA_SHARE_SQL = """
--- Nigeria's share of all malaria deaths in Sub-Saharan Africa, by year
+-- Nigeria's share of all malaria deaths in the world, by year
 SELECT n.year,
        n.value AS nigeria_deaths,
-       s.value AS region_deaths,
-       ROUND(100.0 * n.value / s.value, 1) AS share_pct
+       w.value AS world_deaths,
+       ROUND(100.0 * n.value / w.value, 1) AS share_pct
 FROM health n
-JOIN health s
-  ON s.year = n.year
- AND s.indicator = n.indicator
- AND s.country = 'Sub-Saharan Africa'
+JOIN health w
+  ON w.year = n.year
+ AND w.indicator = n.indicator
+ AND w.country = 'World'
 WHERE n.indicator = 'malaria_deaths'
   AND n.country = 'Nigeria'
 ORDER BY n.year
@@ -127,10 +129,16 @@ def years_to_target(current: float, target: float, arr_pct: float) -> float | No
 def _rank(conn, indicator: str, country: str, better: str) -> tuple[int, int]:
     """Nigeria's position among countries (regions excluded), 1 = best."""
     df = latest(conn, indicator)
-    df = df[~df["country"].isin(["World", "Sub-Saharan Africa"])]
+    df = df[~df["country"].isin(REGIONS)]
     df = df.sort_values("value", ascending=(better == "lower")).reset_index(drop=True)
     position = int(df.index[df["country"] == country][0]) + 1
     return position, len(df)
+
+
+def _latest_value(conn, indicator: str, country: str) -> float | None:
+    df = latest(conn, indicator)
+    match = df[df["country"] == country]
+    return float(match["value"].iloc[0]) if not match.empty else None
 
 
 def key_findings(conn, country: str = "Nigeria") -> list[str]:
@@ -142,32 +150,40 @@ def key_findings(conn, country: str = "Nigeria") -> list[str]:
         arr = annual_rate_of_reduction(mmr["first_value"], mmr["last_value"], years)
         to_go = years_to_target(mmr["last_value"], 70, arr)
         rank, total = _rank(conn, "maternal_mortality", country, "lower")
+        region = _latest_value(conn, "maternal_mortality", "Sub-Saharan Africa")
         text = (
             f"**Maternal deaths:** {mmr['last_value']:,.0f} women die per 100,000 live births "
             f"({int(mmr['last_year'])}), the {_ordinal(total - rank + 1)}highest of the "
-            f"{total} countries compared. It fell {abs(mmr['pct_change']):.0f}% since "
-            f"{int(mmr['first_year'])}, about {arr:.1f}% a year"
+            f"{total} countries compared"
+        )
+        if region:
+            text += f" and about {mmr['last_value'] / region:.1f} times the Sub-Saharan average"
+        text += (
+            f". It fell {abs(mmr['pct_change']):.0f}% since {int(mmr['first_year'])}, "
+            f"about {arr:.1f}% a year"
         )
         if to_go:
             text += f". At that pace, reaching the SDG target of 70 would take about {to_go:,.0f} years."
+        else:
+            text += "."
         findings.append(text)
 
     u5 = change(conn, "under5_mortality", country)
     if u5:
         per_children = 1000 / u5["last_value"]
         findings.append(
-            f"**Child deaths:** under-five mortality more than halved since {int(u5['first_year'])}, "
-            f"from {u5['first_value']:.0f} to {u5['last_value']:.0f} per 1,000 births, "
-            f"but about 1 in {per_children:.0f} children still die before turning five."
+            f"**Child deaths:** under-five mortality fell {abs(u5['pct_change']):.0f}% since "
+            f"{int(u5['first_year'])}, from {u5['first_value']:.0f} to {u5['last_value']:.0f} "
+            f"per 1,000 births ({int(u5['last_year'])}), but about 1 in {per_children:.0f} "
+            f"children still die before turning five."
         )
 
     share = malaria_share(conn)
     if not share.empty:
         last = share.iloc[-1]
         findings.append(
-            f"**Malaria:** Nigeria accounted for {last['share_pct']:.0f}% of all malaria deaths in "
-            f"Sub-Saharan Africa in {int(last['year'])} ({last['nigeria_deaths']:,.0f} deaths), "
-            f"up from {share.iloc[0]['share_pct']:.0f}% in {int(share.iloc[0]['year'])}."
+            f"**Malaria:** Nigeria accounted for {last['share_pct']:.0f}% of all malaria deaths "
+            f"in the world in {int(last['year'])} ({last['nigeria_deaths']:,.0f} deaths)."
         )
 
     dtp = change(conn, "dtp3_coverage", country)
@@ -175,19 +191,35 @@ def key_findings(conn, country: str = "Nigeria") -> list[str]:
         rank, total = _rank(conn, "dtp3_coverage", country, "higher")
         position = "the lowest" if rank == total else f"number {rank} out of {total}"
         findings.append(
-            f"**Vaccines:** {dtp['last_value']:.0f}% of 1-year-olds got the DTP3 vaccine in "
+            f"**Vaccines:** {dtp['last_value']:.0f}% of young children got the DTP3 vaccine in "
             f"{int(dtp['last_year'])}, {'the same as' if dtp['change'] == 0 else 'compared with'} "
-            f"{dtp['first_value']:.0f}% in {int(dtp['first_year'])}, {position} among the countries "
-            f"compared. The WHO goal is 90%."
+            f"{dtp['first_value']:.0f}% in {int(dtp['first_year'])}, {position} among the "
+            f"countries compared. The WHO goal is 90%."
         )
 
     tb = change(conn, "tb_treatment_coverage", country)
     if tb:
         missed = 100 - tb["last_value"]
         findings.append(
-            f"**Tuberculosis:** only {tb['last_value']:.0f}% of estimated TB cases were found and "
-            f"treated in {int(tb['last_year'])}, so roughly {missed:.0f}% were missed."
+            f"**Tuberculosis:** {tb['last_value']:.0f}% of estimated TB cases were found in "
+            f"{int(tb['last_year'])}, up from {tb['first_value']:.0f}% in "
+            f"{int(tb['first_year'])}, so roughly {missed:.0f}% still go undetected."
         )
+
+    le = change(conn, "life_expectancy", country)
+    if le:
+        region = _latest_value(conn, "life_expectancy", "Sub-Saharan Africa")
+        world = _latest_value(conn, "life_expectancy", "World")
+        text = (
+            f"**Life expectancy:** {le['last_value']:.1f} years ({int(le['last_year'])}), "
+            f"up from {le['first_value']:.1f} in {int(le['first_year'])}"
+        )
+        if region and world:
+            text += (
+                f", but still about {region - le['last_value']:.0f} years below the "
+                f"Sub-Saharan average and {world - le['last_value']:.0f} below the world average"
+            )
+        findings.append(text + ".")
 
     return findings
 
