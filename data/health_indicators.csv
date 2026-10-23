@@ -20,11 +20,20 @@ Cameroon,2007,dtp3_coverage,82.0
 Cameroon,2008,dtp3_coverage,84.0
 Cameroon,2009,dtp3_coverage,80.0
 Cameroon,2010,dtp3_coverage,84.0
-Cameroon,2011,dtp3_coverage,82.0
-Cameroon,2012,dtp3_coverage,85.0
-Cameroon,2013,dtp3_coverage,89.0
-Cameroon,2014,dtp3_coverage,87.0
-Cameroon,2015,dtp3_coverage,84.0
+Cameroon,2011,dtp3_coverage,81.0
+Cameroon,2012,dtp3_coverage,79.0
+Cameroon,2013,dtp3_coverage,76.0
+Cameroon,2014,dtp3_coverage,76.0
+Cameroon,2015,dtp3_coverage,76.0
+Cameroon,2016,dtp3_coverage,78.0
+Cameroon,2017,dtp3_coverage,74.0
+Cameroon,2018,dtp3_coverage,68.0
+Cameroon,2019,dtp3_coverage,67.0
+Cameroon,2020,dtp3_coverage,68.0
+Cameroon,2021,dtp3_coverage,71.0
+Cameroon,2022,dtp3_coverage,71.0
+Cameroon,2023,dtp3_coverage,75.0
+Cameroon,2024,dtp3_coverage,77.0
 Ethiopia,1990,dtp3_coverage,49.0
 Ethiopia,1991,dtp3_coverage,21.0
 Ethiopia,1992,dtp3_coverage,13.0
@@ -33,24 +42,33 @@ Ethiopia,1994,dtp3_coverage,57.0
 Ethiopia,1995,dtp3_coverage,57.0
 Ethiopia,1996,dtp3_coverage,55.0
 Ethiopia,1997,dtp3_coverage,55.0
-Ethiopia,1998,dtp3_coverage,41.0
-Ethiopia,1999,dtp3_coverage,27.0
+Ethiopia,1998,dtp3_coverage,42.0
+Ethiopia,1999,dtp3_coverage,28.0
 Ethiopia,2000,dtp3_coverage,30.0
 Ethiopia,2001,dtp3_coverage,32.0
 Ethiopia,2002,dtp3_coverage,35.0
 Ethiopia,2003,dtp3_coverage,37.0
-Ethiopia,2004,dtp3_coverage,40.0
-Ethiopia,2005,dtp3_coverage,44.0
+Ethiopia,2004,dtp3_coverage,39.0
+Ethiopia,2005,dtp3_coverage,43.0
 Ethiopia,2006,dtp3_coverage,46.0
 Ethiopia,2007,dtp3_coverage,50.0
 Ethiopia,2008,dtp3_coverage,54.0
 Ethiopia,2009,dtp3_coverage,58.0
 Ethiopia,2010,dtp3_coverage,61.0
 Ethiopia,2011,dtp3_coverage,65.0
-Ethiopia,2012,dtp3_coverage,69.0
-Ethiopia,2013,dtp3_coverage,72.0
-Ethiopia,2014,dtp3_coverage,77.0
-Ethiopia,2015,dtp3_coverage,86.0
+Ethiopia,2012,dtp3_coverage,61.0
+Ethiopia,2013,dtp3_coverage,59.0
+Ethiopia,2014,dtp3_coverage,61.0
+Ethiopia,2015,dtp3_coverage,62.0
+Ethiopia,2016,dtp3_coverage,64.0
+Ethiopia,2017,dtp3_coverage,65.0
+Ethiopia,2018,dtp3_coverage,62.0
+Ethiopia,2019,dtp3_coverage,61.0
+Ethiopia,2020,dtp3_coverage,62.0
+Ethiopia,2021,dtp3_coverage,63.0
+Ethiopia,2022,dtp3_coverage,63.0
+Ethiopia,2023,dtp3_coverage,70.0
+Ethiopia,2024,dtp3_coverage,73.0
 Ghana,1990,dtp3_coverage,58.0
 Ghana,1991,dtp3_coverage,60.0
 Ghana,1992,dtp3_coverage,62.0
@@ -76,7 +94,16 @@ Ghana,2011,dtp3_coverage,91.0
 Ghana,2012,dtp3_coverage,92.0
 Ghana,2013,dtp3_coverage,90.0
 Ghana,2014,dtp3_coverage,98.0
-Ghana,2015,dtp3_coverage,88.0
+Ghana,2015,dtp3_coverage,89.0
+Ghana,2016,dtp3_coverage,93.0
+Ghana,2017,dtp3_coverage,99.0
+Ghana,2018,dtp3_coverage,97.0
+Ghana,2019,dtp3_coverage,97.0
+Ghana,2020,dtp3_coverage,94.0
+Ghana,2021,dtp3_coverage,98.0
+Ghana,2022,dtp3_coverage,99.0
+Ghana,2023,dtp3_coverage,95.0
+Ghana,2024,dtp3_coverage,95.0
 Kenya,1990,dtp3_coverage,84.0
 Kenya,1991,dtp3_coverage,86.0
 Kenya,1992,dtp3_coverage,87.0
@@ -103,6 +130,15 @@ Kenya,2012,dtp3_coverage,94.0
 Kenya,2013,dtp3_coverage,87.0
 Kenya,2014,dtp3_coverage,92.0
 Kenya,2015,dtp3_coverage,89.0
+Kenya,2016,dtp3_coverage,88.0
+Kenya,2017,dtp3_coverage,81.0
+Kenya,2018,dtp3_coverage,91.0
+Kenya,2019,dtp3_coverage,93.0
+Kenya,2020,dtp3_coverage,93.0
+Kenya,2021,dtp3_coverage,95.0
+Kenya,2022,dtp3_coverage,94.0
+Kenya,2023,dtp3_coverage,93.0
+Kenya,2024,dtp3_coverage,91.0
 Niger,1990,dtp3_coverage,22.0
 Niger,1991,dtp3_coverage,19.0
 Niger,1992,dtp3_coverage,20.0
@@ -119,16 +155,25 @@ Niger,2002,dtp3_coverage,39.0
 Niger,2003,dtp3_coverage,41.0
 Niger,2004,dtp3_coverage,43.0
 Niger,2005,dtp3_coverage,45.0
-Niger,2006,dtp3_coverage,51.0
-Niger,2007,dtp3_coverage,57.0
+Niger,2006,dtp3_coverage,52.0
+Niger,2007,dtp3_coverage,58.0
 Niger,2008,dtp3_coverage,67.0
 Niger,2009,dtp3_coverage,71.0
 Niger,2010,dtp3_coverage,70.0
 Niger,2011,dtp3_coverage,75.0
-Niger,2012,dtp3_coverage,71.0
-Niger,2013,dtp3_coverage,67.0
-Niger,2014,dtp3_coverage,68.0
-Niger,2015,dtp3_coverage,65.0
+Niger,2012,dtp3_coverage,73.0
+Niger,2013,dtp3_coverage,75.0
+Niger,2014,dtp3_coverage,82.0
+Niger,2015,dtp3_coverage,84.0
+Niger,2016,dtp3_coverage,80.0
+Niger,2017,dtp3_coverage,85.0
+Niger,2018,dtp3_coverage,79.0
+Niger,2019,dtp3_coverage,81.0
+Niger,2020,dtp3_coverage,81.0
+Niger,2021,dtp3_coverage,82.0
+Niger,2022,dtp3_coverage,84.0
+Niger,2023,dtp3_coverage,85.0
+Niger,2024,dtp3_coverage,86.0
 Nigeria,1990,dtp3_coverage,56.0
 Nigeria,1991,dtp3_coverage,39.0
 Nigeria,1992,dtp3_coverage,43.0
@@ -137,7 +182,7 @@ Nigeria,1994,dtp3_coverage,44.0
 Nigeria,1995,dtp3_coverage,34.0
 Nigeria,1996,dtp3_coverage,26.0
 Nigeria,1997,dtp3_coverage,21.0
-Nigeria,1998,dtp3_coverage,32.0
+Nigeria,1998,dtp3_coverage,21.0
 Nigeria,1999,dtp3_coverage,31.0
 Nigeria,2000,dtp3_coverage,29.0
 Nigeria,2001,dtp3_coverage,27.0
@@ -149,12 +194,21 @@ Nigeria,2006,dtp3_coverage,40.0
 Nigeria,2007,dtp3_coverage,42.0
 Nigeria,2008,dtp3_coverage,53.0
 Nigeria,2009,dtp3_coverage,63.0
-Nigeria,2010,dtp3_coverage,54.0
-Nigeria,2011,dtp3_coverage,48.0
-Nigeria,2012,dtp3_coverage,42.0
-Nigeria,2013,dtp3_coverage,46.0
-Nigeria,2014,dtp3_coverage,49.0
-Nigeria,2015,dtp3_coverage,56.0
+Nigeria,2010,dtp3_coverage,56.0
+Nigeria,2011,dtp3_coverage,53.0
+Nigeria,2012,dtp3_coverage,36.0
+Nigeria,2013,dtp3_coverage,39.0
+Nigeria,2014,dtp3_coverage,43.0
+Nigeria,2015,dtp3_coverage,42.0
+Nigeria,2016,dtp3_coverage,53.0
+Nigeria,2017,dtp3_coverage,55.0
+Nigeria,2018,dtp3_coverage,61.0
+Nigeria,2019,dtp3_coverage,66.0
+Nigeria,2020,dtp3_coverage,62.0
+Nigeria,2021,dtp3_coverage,61.0
+Nigeria,2022,dtp3_coverage,59.0
+Nigeria,2023,dtp3_coverage,67.0
+Nigeria,2024,dtp3_coverage,67.0
 South Africa,1990,dtp3_coverage,72.0
 South Africa,1991,dtp3_coverage,81.0
 South Africa,1992,dtp3_coverage,79.0
@@ -169,404 +223,943 @@ South Africa,2000,dtp3_coverage,73.0
 South Africa,2001,dtp3_coverage,71.0
 South Africa,2002,dtp3_coverage,70.0
 South Africa,2003,dtp3_coverage,69.0
-South Africa,2004,dtp3_coverage,64.0
-South Africa,2005,dtp3_coverage,72.0
-South Africa,2006,dtp3_coverage,74.0
-South Africa,2007,dtp3_coverage,72.0
-South Africa,2008,dtp3_coverage,73.0
-South Africa,2009,dtp3_coverage,70.0
-South Africa,2010,dtp3_coverage,66.0
-South Africa,2011,dtp3_coverage,72.0
-South Africa,2012,dtp3_coverage,68.0
-South Africa,2013,dtp3_coverage,65.0
-South Africa,2014,dtp3_coverage,70.0
-South Africa,2015,dtp3_coverage,69.0
-World,1990,dtp3_coverage,76.0
-World,1991,dtp3_coverage,72.0
-World,1992,dtp3_coverage,70.0
-World,1993,dtp3_coverage,70.0
-World,1994,dtp3_coverage,73.0
-World,1995,dtp3_coverage,73.0
-World,1996,dtp3_coverage,72.0
-World,1997,dtp3_coverage,71.0
-World,1998,dtp3_coverage,72.0
-World,1999,dtp3_coverage,72.0
-World,2000,dtp3_coverage,72.0
-World,2001,dtp3_coverage,73.0
-World,2002,dtp3_coverage,73.0
-World,2003,dtp3_coverage,75.0
-World,2004,dtp3_coverage,76.0
-World,2005,dtp3_coverage,78.0
-World,2006,dtp3_coverage,79.0
-World,2007,dtp3_coverage,80.0
-World,2008,dtp3_coverage,82.0
-World,2009,dtp3_coverage,84.0
-World,2010,dtp3_coverage,85.0
-World,2011,dtp3_coverage,85.0
-World,2012,dtp3_coverage,85.0
-World,2013,dtp3_coverage,85.0
-World,2014,dtp3_coverage,85.0
-World,2015,dtp3_coverage,86.0
-Cameroon,1990,malaria_deaths,12235.02
-Cameroon,1991,malaria_deaths,13388.29
-Cameroon,1992,malaria_deaths,14397.19
-Cameroon,1993,malaria_deaths,15485.54
-Cameroon,1994,malaria_deaths,16648.33
-Cameroon,1995,malaria_deaths,17907.29
-Cameroon,1996,malaria_deaths,19281.09
-Cameroon,1997,malaria_deaths,20397.65
-Cameroon,1998,malaria_deaths,22051.88
-Cameroon,1999,malaria_deaths,23719.56
-Cameroon,2000,malaria_deaths,25123.22
-Cameroon,2001,malaria_deaths,27378.89
-Cameroon,2002,malaria_deaths,31227.96
-Cameroon,2003,malaria_deaths,33859.77
-Cameroon,2004,malaria_deaths,35927.66
-Cameroon,2005,malaria_deaths,36521.25
-Cameroon,2006,malaria_deaths,34564.36
-Cameroon,2007,malaria_deaths,33192.39
-Cameroon,2008,malaria_deaths,30791.49
-Cameroon,2009,malaria_deaths,27905.67
-Cameroon,2010,malaria_deaths,26824.54
-Cameroon,2011,malaria_deaths,26022.0
-Cameroon,2012,malaria_deaths,25159.44
-Cameroon,2013,malaria_deaths,25922.01
-Cameroon,2014,malaria_deaths,25910.13
-Cameroon,2015,malaria_deaths,25649.26
-Cameroon,2016,malaria_deaths,26243.78
-Ethiopia,1990,malaria_deaths,12583.36
-Ethiopia,1991,malaria_deaths,12818.31
-Ethiopia,1992,malaria_deaths,13131.36
-Ethiopia,1993,malaria_deaths,13465.62
-Ethiopia,1994,malaria_deaths,14024.7
-Ethiopia,1995,malaria_deaths,14431.56
-Ethiopia,1996,malaria_deaths,14425.19
-Ethiopia,1997,malaria_deaths,14472.9
-Ethiopia,1998,malaria_deaths,14598.13
-Ethiopia,1999,malaria_deaths,14790.94
-Ethiopia,2000,malaria_deaths,15053.9
-Ethiopia,2001,malaria_deaths,17616.86
-Ethiopia,2002,malaria_deaths,18232.4
-Ethiopia,2003,malaria_deaths,18943.58
-Ethiopia,2004,malaria_deaths,18982.46
-Ethiopia,2005,malaria_deaths,18704.23
-Ethiopia,2006,malaria_deaths,11577.26
-Ethiopia,2007,malaria_deaths,8898.66
-Ethiopia,2008,malaria_deaths,4457.77
-Ethiopia,2009,malaria_deaths,2400.34
-Ethiopia,2010,malaria_deaths,1880.1
-Ethiopia,2011,malaria_deaths,1446.23
-Ethiopia,2012,malaria_deaths,1494.06
-Ethiopia,2013,malaria_deaths,1440.85
-Ethiopia,2014,malaria_deaths,1323.19
-Ethiopia,2015,malaria_deaths,1363.55
-Ethiopia,2016,malaria_deaths,1343.26
-Ghana,1990,malaria_deaths,12608.42
-Ghana,1991,malaria_deaths,13617.68
-Ghana,1992,malaria_deaths,14181.03
-Ghana,1993,malaria_deaths,14734.93
-Ghana,1994,malaria_deaths,15280.86
-Ghana,1995,malaria_deaths,15961.87
-Ghana,1996,malaria_deaths,16580.79
-Ghana,1997,malaria_deaths,17006.02
-Ghana,1998,malaria_deaths,17759.34
-Ghana,1999,malaria_deaths,18620.99
-Ghana,2000,malaria_deaths,19612.22
-Ghana,2001,malaria_deaths,21075.83
-Ghana,2002,malaria_deaths,22595.9
-Ghana,2003,malaria_deaths,25112.15
-Ghana,2004,malaria_deaths,26011.13
-Ghana,2005,malaria_deaths,26145.3
-Ghana,2006,malaria_deaths,25808.64
-Ghana,2007,malaria_deaths,26651.73
-Ghana,2008,malaria_deaths,27863.42
-Ghana,2009,malaria_deaths,27548.56
-Ghana,2010,malaria_deaths,27022.71
-Ghana,2011,malaria_deaths,25481.96
-Ghana,2012,malaria_deaths,23679.98
-Ghana,2013,malaria_deaths,22035.83
-Ghana,2014,malaria_deaths,21179.76
-Ghana,2015,malaria_deaths,20023.16
-Ghana,2016,malaria_deaths,19673.65
-Kenya,1990,malaria_deaths,11495.56
-Kenya,1991,malaria_deaths,12376.9
-Kenya,1992,malaria_deaths,12921.91
-Kenya,1993,malaria_deaths,13322.99
-Kenya,1994,malaria_deaths,13676.83
-Kenya,1995,malaria_deaths,14184.18
-Kenya,1996,malaria_deaths,14465.06
-Kenya,1997,malaria_deaths,14677.31
-Kenya,1998,malaria_deaths,15295.55
-Kenya,1999,malaria_deaths,15615.75
-Kenya,2000,malaria_deaths,13076.26
-Kenya,2001,malaria_deaths,14925.83
-Kenya,2002,malaria_deaths,13900.53
-Kenya,2003,malaria_deaths,14965.32
-Kenya,2004,malaria_deaths,13463.48
-Kenya,2005,malaria_deaths,11040.82
-Kenya,2006,malaria_deaths,9268.93
-Kenya,2007,malaria_deaths,7884.76
-Kenya,2008,malaria_deaths,6673.15
-Kenya,2009,malaria_deaths,5577.08
-Kenya,2010,malaria_deaths,3298.82
-Kenya,2011,malaria_deaths,1505.0
-Kenya,2012,malaria_deaths,1559.99
-Kenya,2013,malaria_deaths,3336.27
-Kenya,2014,malaria_deaths,4673.34
-Kenya,2015,malaria_deaths,4634.69
-Kenya,2016,malaria_deaths,4630.6
-Niger,1990,malaria_deaths,16770.22
-Niger,1991,malaria_deaths,17078.06
-Niger,1992,malaria_deaths,17352.08
-Niger,1993,malaria_deaths,17813.76
-Niger,1994,malaria_deaths,18031.4
-Niger,1995,malaria_deaths,18490.06
-Niger,1996,malaria_deaths,18796.76
-Niger,1997,malaria_deaths,19080.16
-Niger,1998,malaria_deaths,19663.09
-Niger,1999,malaria_deaths,20340.58
-Niger,2000,malaria_deaths,20916.11
-Niger,2001,malaria_deaths,21489.99
-Niger,2002,malaria_deaths,22663.94
-Niger,2003,malaria_deaths,24136.12
-Niger,2004,malaria_deaths,25729.08
-Niger,2005,malaria_deaths,29642.42
-Niger,2006,malaria_deaths,27611.07
-Niger,2007,malaria_deaths,30301.08
-Niger,2008,malaria_deaths,33643.52
-Niger,2009,malaria_deaths,35848.27
-Niger,2010,malaria_deaths,37102.42
-Niger,2011,malaria_deaths,38120.56
-Niger,2012,malaria_deaths,36840.19
-Niger,2013,malaria_deaths,35044.66
-Niger,2014,malaria_deaths,33925.07
-Niger,2015,malaria_deaths,33571.04
-Niger,2016,malaria_deaths,33400.03
-Nigeria,1990,malaria_deaths,195195.08
-Nigeria,1991,malaria_deaths,204362.11
-Nigeria,1992,malaria_deaths,210828.3
-Nigeria,1993,malaria_deaths,219564.72
-Nigeria,1994,malaria_deaths,225303.09
-Nigeria,1995,malaria_deaths,228930.92
-Nigeria,1996,malaria_deaths,233884.48
-Nigeria,1997,malaria_deaths,236859.61
-Nigeria,1998,malaria_deaths,244646.39
-Nigeria,1999,malaria_deaths,249280.94
-Nigeria,2000,malaria_deaths,251552.55
-Nigeria,2001,malaria_deaths,259030.83
-Nigeria,2002,malaria_deaths,262954.41
-Nigeria,2003,malaria_deaths,274154.41
-Nigeria,2004,malaria_deaths,272903.78
-Nigeria,2005,malaria_deaths,273289.22
-Nigeria,2006,malaria_deaths,290537.78
-Nigeria,2007,malaria_deaths,299198.88
-Nigeria,2008,malaria_deaths,311497.03
-Nigeria,2009,malaria_deaths,293535.13
-Nigeria,2010,malaria_deaths,276892.56
-Nigeria,2011,malaria_deaths,262751.31
-Nigeria,2012,malaria_deaths,250222.34
-Nigeria,2013,malaria_deaths,247041.64
-Nigeria,2014,malaria_deaths,242701.63
-Nigeria,2015,malaria_deaths,232989.84
-Nigeria,2016,malaria_deaths,231579.09
-South Africa,1990,malaria_deaths,219.28
-South Africa,1991,malaria_deaths,227.36
-South Africa,1992,malaria_deaths,234.24
-South Africa,1993,malaria_deaths,234.93
-South Africa,1994,malaria_deaths,244.76
-South Africa,1995,malaria_deaths,247.93
-South Africa,1996,malaria_deaths,253.6
-South Africa,1997,malaria_deaths,262.9
-South Africa,1998,malaria_deaths,273.81
-South Africa,1999,malaria_deaths,282.2
-South Africa,2000,malaria_deaths,296.94
-South Africa,2001,malaria_deaths,285.92
-South Africa,2002,malaria_deaths,274.1
-South Africa,2003,malaria_deaths,260.39
-South Africa,2004,malaria_deaths,242.93
-South Africa,2005,malaria_deaths,224.87
-South Africa,2006,malaria_deaths,209.46
-South Africa,2007,malaria_deaths,189.33
-South Africa,2008,malaria_deaths,174.04
-South Africa,2009,malaria_deaths,162.8
-South Africa,2010,malaria_deaths,153.65
-South Africa,2011,malaria_deaths,147.08
-South Africa,2012,malaria_deaths,143.01
-South Africa,2013,malaria_deaths,142.98
-South Africa,2014,malaria_deaths,146.56
-South Africa,2015,malaria_deaths,152.71
-South Africa,2016,malaria_deaths,158.73
-Sub-Saharan Africa,1990,malaria_deaths,637100.44
-Sub-Saharan Africa,1991,malaria_deaths,660572.0
-Sub-Saharan Africa,1992,malaria_deaths,675745.56
-Sub-Saharan Africa,1993,malaria_deaths,696215.75
-Sub-Saharan Africa,1994,malaria_deaths,711370.88
-Sub-Saharan Africa,1995,malaria_deaths,728515.63
-Sub-Saharan Africa,1996,malaria_deaths,745449.13
-Sub-Saharan Africa,1997,malaria_deaths,756879.44
-Sub-Saharan Africa,1998,malaria_deaths,782504.06
-Sub-Saharan Africa,1999,malaria_deaths,804438.69
-Sub-Saharan Africa,2000,malaria_deaths,815091.06
-Sub-Saharan Africa,2001,malaria_deaths,848131.13
-Sub-Saharan Africa,2002,malaria_deaths,867123.69
-Sub-Saharan Africa,2003,malaria_deaths,891890.38
-Sub-Saharan Africa,2004,malaria_deaths,889939.5
-Sub-Saharan Africa,2005,malaria_deaths,883869.88
-Sub-Saharan Africa,2006,malaria_deaths,880103.13
-Sub-Saharan Africa,2007,malaria_deaths,873981.19
-Sub-Saharan Africa,2008,malaria_deaths,867087.81
-Sub-Saharan Africa,2009,malaria_deaths,830457.25
-Sub-Saharan Africa,2010,malaria_deaths,795684.5
-Sub-Saharan Africa,2011,malaria_deaths,751656.13
-Sub-Saharan Africa,2012,malaria_deaths,704696.94
-Sub-Saharan Africa,2013,malaria_deaths,682316.44
-Sub-Saharan Africa,2014,malaria_deaths,666042.0
-Sub-Saharan Africa,2015,malaria_deaths,645159.63
-Sub-Saharan Africa,2016,malaria_deaths,643566.19
-Cameroon,2000,maternal_mortality,886.0
-Cameroon,2001,maternal_mortality,844.0
-Cameroon,2002,maternal_mortality,803.0
-Cameroon,2003,maternal_mortality,771.0
-Cameroon,2004,maternal_mortality,732.0
-Cameroon,2005,maternal_mortality,692.0
-Cameroon,2006,maternal_mortality,658.0
-Cameroon,2007,maternal_mortality,635.0
-Cameroon,2008,maternal_mortality,618.0
-Cameroon,2009,maternal_mortality,606.0
-Cameroon,2010,maternal_mortality,597.0
-Cameroon,2011,maternal_mortality,589.0
-Cameroon,2012,maternal_mortality,580.0
-Cameroon,2013,maternal_mortality,567.0
-Cameroon,2014,maternal_mortality,564.0
-Cameroon,2015,maternal_mortality,554.0
-Cameroon,2016,maternal_mortality,538.0
-Cameroon,2017,maternal_mortality,529.0
-Ethiopia,2000,maternal_mortality,1030.0
-Ethiopia,2001,maternal_mortality,988.0
-Ethiopia,2002,maternal_mortality,985.0
-Ethiopia,2003,maternal_mortality,972.0
-Ethiopia,2004,maternal_mortality,929.0
-Ethiopia,2005,maternal_mortality,865.0
-Ethiopia,2006,maternal_mortality,795.0
-Ethiopia,2007,maternal_mortality,731.0
-Ethiopia,2008,maternal_mortality,681.0
-Ethiopia,2009,maternal_mortality,638.0
-Ethiopia,2010,maternal_mortality,597.0
-Ethiopia,2011,maternal_mortality,558.0
-Ethiopia,2012,maternal_mortality,527.0
-Ethiopia,2013,maternal_mortality,498.0
-Ethiopia,2014,maternal_mortality,472.0
-Ethiopia,2015,maternal_mortality,446.0
-Ethiopia,2016,maternal_mortality,422.0
-Ethiopia,2017,maternal_mortality,401.0
-Ghana,2000,maternal_mortality,484.0
-Ghana,2001,maternal_mortality,445.0
-Ghana,2002,maternal_mortality,415.0
-Ghana,2003,maternal_mortality,398.0
-Ghana,2004,maternal_mortality,384.0
-Ghana,2005,maternal_mortality,371.0
-Ghana,2006,maternal_mortality,359.0
-Ghana,2007,maternal_mortality,349.0
-Ghana,2008,maternal_mortality,342.0
-Ghana,2009,maternal_mortality,339.0
-Ghana,2010,maternal_mortality,339.0
-Ghana,2011,maternal_mortality,339.0
-Ghana,2012,maternal_mortality,336.0
-Ghana,2013,maternal_mortality,331.0
-Ghana,2014,maternal_mortality,325.0
-Ghana,2015,maternal_mortality,320.0
-Ghana,2016,maternal_mortality,314.0
-Ghana,2017,maternal_mortality,308.0
-Kenya,2000,maternal_mortality,708.0
-Kenya,2001,maternal_mortality,702.0
-Kenya,2002,maternal_mortality,692.0
-Kenya,2003,maternal_mortality,678.0
-Kenya,2004,maternal_mortality,653.0
-Kenya,2005,maternal_mortality,618.0
-Kenya,2006,maternal_mortality,583.0
-Kenya,2007,maternal_mortality,545.0
-Kenya,2008,maternal_mortality,513.0
-Kenya,2009,maternal_mortality,472.0
-Kenya,2010,maternal_mortality,432.0
-Kenya,2011,maternal_mortality,398.0
-Kenya,2012,maternal_mortality,373.0
-Kenya,2013,maternal_mortality,364.0
-Kenya,2014,maternal_mortality,358.0
-Kenya,2015,maternal_mortality,353.0
-Kenya,2016,maternal_mortality,346.0
-Kenya,2017,maternal_mortality,342.0
-Niger,2000,maternal_mortality,813.0
-Niger,2001,maternal_mortality,803.0
-Niger,2002,maternal_mortality,795.0
-Niger,2003,maternal_mortality,782.0
-Niger,2004,maternal_mortality,770.0
-Niger,2005,maternal_mortality,755.0
-Niger,2006,maternal_mortality,739.0
-Niger,2007,maternal_mortality,725.0
-Niger,2008,maternal_mortality,709.0
-Niger,2009,maternal_mortality,688.0
-Niger,2010,maternal_mortality,663.0
-Niger,2011,maternal_mortality,639.0
-Niger,2012,maternal_mortality,616.0
-Niger,2013,maternal_mortality,594.0
-Niger,2014,maternal_mortality,573.0
-Niger,2015,maternal_mortality,555.0
-Niger,2016,maternal_mortality,530.0
-Niger,2017,maternal_mortality,509.0
-Nigeria,2000,maternal_mortality,1200.0
-Nigeria,2001,maternal_mortality,1200.0
-Nigeria,2002,maternal_mortality,1180.0
-Nigeria,2003,maternal_mortality,1170.0
-Nigeria,2004,maternal_mortality,1130.0
-Nigeria,2005,maternal_mortality,1080.0
-Nigeria,2006,maternal_mortality,1040.0
-Nigeria,2007,maternal_mortality,1010.0
-Nigeria,2008,maternal_mortality,996.0
-Nigeria,2009,maternal_mortality,987.0
-Nigeria,2010,maternal_mortality,978.0
-Nigeria,2011,maternal_mortality,972.0
-Nigeria,2012,maternal_mortality,963.0
-Nigeria,2013,maternal_mortality,951.0
-Nigeria,2014,maternal_mortality,943.0
-Nigeria,2015,maternal_mortality,931.0
-Nigeria,2016,maternal_mortality,925.0
-Nigeria,2017,maternal_mortality,917.0
-South Africa,2000,maternal_mortality,160.0
-South Africa,2001,maternal_mortality,168.0
-South Africa,2002,maternal_mortality,177.0
-South Africa,2003,maternal_mortality,186.0
-South Africa,2004,maternal_mortality,195.0
-South Africa,2005,maternal_mortality,201.0
-South Africa,2006,maternal_mortality,201.0
-South Africa,2007,maternal_mortality,199.0
-South Africa,2008,maternal_mortality,191.0
-South Africa,2009,maternal_mortality,179.0
-South Africa,2010,maternal_mortality,171.0
-South Africa,2011,maternal_mortality,161.0
-South Africa,2012,maternal_mortality,143.0
-South Africa,2013,maternal_mortality,133.0
-South Africa,2014,maternal_mortality,128.0
-South Africa,2015,maternal_mortality,125.0
-South Africa,2016,maternal_mortality,122.0
-South Africa,2017,maternal_mortality,119.0
-World,2000,maternal_mortality,342.0
-World,2001,maternal_mortality,335.0
-World,2002,maternal_mortality,328.0
-World,2003,maternal_mortality,319.0
-World,2004,maternal_mortality,309.0
-World,2005,maternal_mortality,296.0
-World,2006,maternal_mortality,284.0
-World,2007,maternal_mortality,274.0
-World,2008,maternal_mortality,265.0
-World,2009,maternal_mortality,257.0
-World,2010,maternal_mortality,248.0
-World,2011,maternal_mortality,241.0
-World,2012,maternal_mortality,234.0
-World,2013,maternal_mortality,229.0
-World,2014,maternal_mortality,224.0
-World,2015,maternal_mortality,219.0
-World,2016,maternal_mortality,214.0
-World,2017,maternal_mortality,211.0
+South Africa,2004,dtp3_coverage,74.0
+South Africa,2005,dtp3_coverage,81.0
+South Africa,2006,dtp3_coverage,84.0
+South Africa,2007,dtp3_coverage,85.0
+South Africa,2008,dtp3_coverage,82.0
+South Africa,2009,dtp3_coverage,81.0
+South Africa,2010,dtp3_coverage,77.0
+South Africa,2011,dtp3_coverage,75.0
+South Africa,2012,dtp3_coverage,71.0
+South Africa,2013,dtp3_coverage,81.0
+South Africa,2014,dtp3_coverage,85.0
+South Africa,2015,dtp3_coverage,85.0
+South Africa,2016,dtp3_coverage,85.0
+South Africa,2017,dtp3_coverage,84.0
+South Africa,2018,dtp3_coverage,82.0
+South Africa,2019,dtp3_coverage,85.0
+South Africa,2020,dtp3_coverage,84.0
+South Africa,2021,dtp3_coverage,86.0
+South Africa,2022,dtp3_coverage,85.0
+South Africa,2023,dtp3_coverage,79.0
+South Africa,2024,dtp3_coverage,74.0
+Sub-Saharan Africa,1990,dtp3_coverage,56.02
+Sub-Saharan Africa,1991,dtp3_coverage,48.51
+Sub-Saharan Africa,1992,dtp3_coverage,48.94
+Sub-Saharan Africa,1993,dtp3_coverage,48.83
+Sub-Saharan Africa,1994,dtp3_coverage,53.29
+Sub-Saharan Africa,1995,dtp3_coverage,52.27
+Sub-Saharan Africa,1996,dtp3_coverage,50.0
+Sub-Saharan Africa,1997,dtp3_coverage,48.62
+Sub-Saharan Africa,1998,dtp3_coverage,47.26
+Sub-Saharan Africa,1999,dtp3_coverage,48.52
+Sub-Saharan Africa,2000,dtp3_coverage,50.42
+Sub-Saharan Africa,2001,dtp3_coverage,51.29
+Sub-Saharan Africa,2002,dtp3_coverage,52.68
+Sub-Saharan Africa,2003,dtp3_coverage,55.7
+Sub-Saharan Africa,2004,dtp3_coverage,58.79
+Sub-Saharan Africa,2005,dtp3_coverage,62.09
+Sub-Saharan Africa,2006,dtp3_coverage,64.14
+Sub-Saharan Africa,2007,dtp3_coverage,65.96
+Sub-Saharan Africa,2008,dtp3_coverage,69.04
+Sub-Saharan Africa,2009,dtp3_coverage,72.33
+Sub-Saharan Africa,2010,dtp3_coverage,71.25
+Sub-Saharan Africa,2011,dtp3_coverage,71.81
+Sub-Saharan Africa,2012,dtp3_coverage,68.66
+Sub-Saharan Africa,2013,dtp3_coverage,68.54
+Sub-Saharan Africa,2014,dtp3_coverage,70.78
+Sub-Saharan Africa,2015,dtp3_coverage,70.26
+Sub-Saharan Africa,2016,dtp3_coverage,73.19
+Sub-Saharan Africa,2017,dtp3_coverage,73.65
+Sub-Saharan Africa,2018,dtp3_coverage,75.01
+Sub-Saharan Africa,2019,dtp3_coverage,76.3
+Sub-Saharan Africa,2020,dtp3_coverage,73.69
+Sub-Saharan Africa,2021,dtp3_coverage,72.73
+Sub-Saharan Africa,2022,dtp3_coverage,72.69
+Sub-Saharan Africa,2023,dtp3_coverage,73.87
+Sub-Saharan Africa,2024,dtp3_coverage,73.95
+World,1990,dtp3_coverage,76.03
+World,1991,dtp3_coverage,71.91
+World,1992,dtp3_coverage,70.5
+World,1993,dtp3_coverage,70.39
+World,1994,dtp3_coverage,72.78
+World,1995,dtp3_coverage,73.16
+World,1996,dtp3_coverage,72.34
+World,1997,dtp3_coverage,71.46
+World,1998,dtp3_coverage,71.36
+World,1999,dtp3_coverage,71.79
+World,2000,dtp3_coverage,72.3
+World,2001,dtp3_coverage,73.01
+World,2002,dtp3_coverage,72.71
+World,2003,dtp3_coverage,74.37
+World,2004,dtp3_coverage,76.4
+World,2005,dtp3_coverage,77.27
+World,2006,dtp3_coverage,78.45
+World,2007,dtp3_coverage,78.44
+World,2008,dtp3_coverage,81.06
+World,2009,dtp3_coverage,83.11
+World,2010,dtp3_coverage,83.66
+World,2011,dtp3_coverage,84.76
+World,2012,dtp3_coverage,84.03
+World,2013,dtp3_coverage,83.66
+World,2014,dtp3_coverage,84.66
+World,2015,dtp3_coverage,84.83
+World,2016,dtp3_coverage,85.91
+World,2017,dtp3_coverage,85.92
+World,2018,dtp3_coverage,86.57
+World,2019,dtp3_coverage,86.76
+World,2020,dtp3_coverage,83.55
+World,2021,dtp3_coverage,82.07
+World,2022,dtp3_coverage,85.08
+World,2023,dtp3_coverage,84.49
+World,2024,dtp3_coverage,84.78
+Cameroon,1990,life_expectancy,54.35
+Cameroon,1991,life_expectancy,54.17
+Cameroon,1992,life_expectancy,54.05
+Cameroon,1993,life_expectancy,53.87
+Cameroon,1994,life_expectancy,53.54
+Cameroon,1995,life_expectancy,53.35
+Cameroon,1996,life_expectancy,53.2
+Cameroon,1997,life_expectancy,53.1
+Cameroon,1998,life_expectancy,53.04
+Cameroon,1999,life_expectancy,53.17
+Cameroon,2000,life_expectancy,53.34
+Cameroon,2001,life_expectancy,53.6
+Cameroon,2002,life_expectancy,53.92
+Cameroon,2003,life_expectancy,54.25
+Cameroon,2004,life_expectancy,54.58
+Cameroon,2005,life_expectancy,54.9
+Cameroon,2006,life_expectancy,55.3
+Cameroon,2007,life_expectancy,55.71
+Cameroon,2008,life_expectancy,56.12
+Cameroon,2009,life_expectancy,56.49
+Cameroon,2010,life_expectancy,56.96
+Cameroon,2011,life_expectancy,57.48
+Cameroon,2012,life_expectancy,58.17
+Cameroon,2013,life_expectancy,58.73
+Cameroon,2014,life_expectancy,59.13
+Cameroon,2015,life_expectancy,59.69
+Cameroon,2016,life_expectancy,60.29
+Cameroon,2017,life_expectancy,60.82
+Cameroon,2018,life_expectancy,61.19
+Cameroon,2019,life_expectancy,61.7
+Cameroon,2020,life_expectancy,61.67
+Cameroon,2021,life_expectancy,61.15
+Cameroon,2022,life_expectancy,62.44
+Cameroon,2023,life_expectancy,63.7
+Cameroon,2024,life_expectancy,63.97
+Ethiopia,1990,life_expectancy,45.12
+Ethiopia,1991,life_expectancy,46.66
+Ethiopia,1992,life_expectancy,47.28
+Ethiopia,1993,life_expectancy,47.68
+Ethiopia,1994,life_expectancy,47.93
+Ethiopia,1995,life_expectancy,48.16
+Ethiopia,1996,life_expectancy,48.7
+Ethiopia,1997,life_expectancy,49.21
+Ethiopia,1998,life_expectancy,49.78
+Ethiopia,1999,life_expectancy,49.49
+Ethiopia,2000,life_expectancy,50.88
+Ethiopia,2001,life_expectancy,51.43
+Ethiopia,2002,life_expectancy,52.08
+Ethiopia,2003,life_expectancy,52.88
+Ethiopia,2004,life_expectancy,53.74
+Ethiopia,2005,life_expectancy,54.36
+Ethiopia,2006,life_expectancy,55.4
+Ethiopia,2007,life_expectancy,56.57
+Ethiopia,2008,life_expectancy,57.73
+Ethiopia,2009,life_expectancy,58.72
+Ethiopia,2010,life_expectancy,59.71
+Ethiopia,2011,life_expectancy,60.6
+Ethiopia,2012,life_expectancy,61.44
+Ethiopia,2013,life_expectancy,62.16
+Ethiopia,2014,life_expectancy,62.93
+Ethiopia,2015,life_expectancy,63.59
+Ethiopia,2016,life_expectancy,64.16
+Ethiopia,2017,life_expectancy,64.77
+Ethiopia,2018,life_expectancy,65.26
+Ethiopia,2019,life_expectancy,65.74
+Ethiopia,2020,life_expectancy,65.97
+Ethiopia,2021,life_expectancy,65.33
+Ethiopia,2022,life_expectancy,66.9
+Ethiopia,2023,life_expectancy,67.32
+Ethiopia,2024,life_expectancy,67.6
+Ghana,1990,life_expectancy,55.4
+Ghana,1991,life_expectancy,55.72
+Ghana,1992,life_expectancy,56.06
+Ghana,1993,life_expectancy,56.29
+Ghana,1994,life_expectancy,56.23
+Ghana,1995,life_expectancy,56.66
+Ghana,1996,life_expectancy,56.96
+Ghana,1997,life_expectancy,57.24
+Ghana,1998,life_expectancy,57.52
+Ghana,1999,life_expectancy,57.84
+Ghana,2000,life_expectancy,58.14
+Ghana,2001,life_expectancy,58.4
+Ghana,2002,life_expectancy,58.71
+Ghana,2003,life_expectancy,59.01
+Ghana,2004,life_expectancy,59.32
+Ghana,2005,life_expectancy,59.64
+Ghana,2006,life_expectancy,59.98
+Ghana,2007,life_expectancy,60.28
+Ghana,2008,life_expectancy,60.58
+Ghana,2009,life_expectancy,60.93
+Ghana,2010,life_expectancy,61.3
+Ghana,2011,life_expectancy,61.62
+Ghana,2012,life_expectancy,62.0
+Ghana,2013,life_expectancy,62.4
+Ghana,2014,life_expectancy,62.83
+Ghana,2015,life_expectancy,63.18
+Ghana,2016,life_expectancy,63.52
+Ghana,2017,life_expectancy,63.83
+Ghana,2018,life_expectancy,64.14
+Ghana,2019,life_expectancy,64.46
+Ghana,2020,life_expectancy,64.31
+Ghana,2021,life_expectancy,64.29
+Ghana,2022,life_expectancy,65.25
+Ghana,2023,life_expectancy,65.5
+Ghana,2024,life_expectancy,65.69
+Kenya,1990,life_expectancy,58.33
+Kenya,1991,life_expectancy,57.83
+Kenya,1992,life_expectancy,57.1
+Kenya,1993,life_expectancy,56.67
+Kenya,1994,life_expectancy,56.1
+Kenya,1995,life_expectancy,55.86
+Kenya,1996,life_expectancy,55.58
+Kenya,1997,life_expectancy,55.48
+Kenya,1998,life_expectancy,55.57
+Kenya,1999,life_expectancy,55.87
+Kenya,2000,life_expectancy,56.08
+Kenya,2001,life_expectancy,56.5
+Kenya,2002,life_expectancy,56.76
+Kenya,2003,life_expectancy,57.37
+Kenya,2004,life_expectancy,57.95
+Kenya,2005,life_expectancy,58.51
+Kenya,2006,life_expectancy,59.06
+Kenya,2007,life_expectancy,59.41
+Kenya,2008,life_expectancy,59.96
+Kenya,2009,life_expectancy,60.48
+Kenya,2010,life_expectancy,60.92
+Kenya,2011,life_expectancy,61.28
+Kenya,2012,life_expectancy,61.54
+Kenya,2013,life_expectancy,61.73
+Kenya,2014,life_expectancy,61.99
+Kenya,2015,life_expectancy,62.28
+Kenya,2016,life_expectancy,62.53
+Kenya,2017,life_expectancy,62.72
+Kenya,2018,life_expectancy,62.82
+Kenya,2019,life_expectancy,62.94
+Kenya,2020,life_expectancy,61.6
+Kenya,2021,life_expectancy,61.22
+Kenya,2022,life_expectancy,63.55
+Kenya,2023,life_expectancy,63.65
+Kenya,2024,life_expectancy,63.83
+Niger,1990,life_expectancy,41.73
+Niger,1991,life_expectancy,42.29
+Niger,1992,life_expectancy,43.06
+Niger,1993,life_expectancy,43.84
+Niger,1994,life_expectancy,44.59
+Niger,1995,life_expectancy,45.5
+Niger,1996,life_expectancy,46.31
+Niger,1997,life_expectancy,47.1
+Niger,1998,life_expectancy,47.81
+Niger,1999,life_expectancy,48.48
+Niger,2000,life_expectancy,49.17
+Niger,2001,life_expectancy,49.87
+Niger,2002,life_expectancy,50.64
+Niger,2003,life_expectancy,51.54
+Niger,2004,life_expectancy,52.4
+Niger,2005,life_expectancy,53.32
+Niger,2006,life_expectancy,54.22
+Niger,2007,life_expectancy,55.06
+Niger,2008,life_expectancy,55.85
+Niger,2009,life_expectancy,56.49
+Niger,2010,life_expectancy,57.08
+Niger,2011,life_expectancy,57.6
+Niger,2012,life_expectancy,57.99
+Niger,2013,life_expectancy,58.36
+Niger,2014,life_expectancy,58.69
+Niger,2015,life_expectancy,58.85
+Niger,2016,life_expectancy,59.23
+Niger,2017,life_expectancy,59.52
+Niger,2018,life_expectancy,59.76
+Niger,2019,life_expectancy,60.03
+Niger,2020,life_expectancy,59.89
+Niger,2021,life_expectancy,59.54
+Niger,2022,life_expectancy,60.4
+Niger,2023,life_expectancy,61.18
+Niger,2024,life_expectancy,61.43
+Nigeria,1990,life_expectancy,45.73
+Nigeria,1991,life_expectancy,45.48
+Nigeria,1992,life_expectancy,45.59
+Nigeria,1993,life_expectancy,45.78
+Nigeria,1994,life_expectancy,45.75
+Nigeria,1995,life_expectancy,45.87
+Nigeria,1996,life_expectancy,45.83
+Nigeria,1997,life_expectancy,45.96
+Nigeria,1998,life_expectancy,46.15
+Nigeria,1999,life_expectancy,46.61
+Nigeria,2000,life_expectancy,47.14
+Nigeria,2001,life_expectancy,47.55
+Nigeria,2002,life_expectancy,48.02
+Nigeria,2003,life_expectancy,48.62
+Nigeria,2004,life_expectancy,49.15
+Nigeria,2005,life_expectancy,49.54
+Nigeria,2006,life_expectancy,49.88
+Nigeria,2007,life_expectancy,50.38
+Nigeria,2008,life_expectancy,50.75
+Nigeria,2009,life_expectancy,51.08
+Nigeria,2010,life_expectancy,51.32
+Nigeria,2011,life_expectancy,51.49
+Nigeria,2012,life_expectancy,51.69
+Nigeria,2013,life_expectancy,51.83
+Nigeria,2014,life_expectancy,51.94
+Nigeria,2015,life_expectancy,51.94
+Nigeria,2016,life_expectancy,52.19
+Nigeria,2017,life_expectancy,52.4
+Nigeria,2018,life_expectancy,52.67
+Nigeria,2019,life_expectancy,53.01
+Nigeria,2020,life_expectancy,53.07
+Nigeria,2021,life_expectancy,53.46
+Nigeria,2022,life_expectancy,54.08
+Nigeria,2023,life_expectancy,54.46
+Nigeria,2024,life_expectancy,54.64
+South Africa,1990,life_expectancy,62.94
+South Africa,1991,life_expectancy,62.98
+South Africa,1992,life_expectancy,62.84
+South Africa,1993,life_expectancy,62.62
+South Africa,1994,life_expectancy,62.07
+South Africa,1995,life_expectancy,61.6
+South Africa,1996,life_expectancy,61.08
+South Africa,1997,life_expectancy,60.54
+South Africa,1998,life_expectancy,59.91
+South Africa,1999,life_expectancy,59.19
+South Africa,2000,life_expectancy,58.37
+South Africa,2001,life_expectancy,57.16
+South Africa,2002,life_expectancy,55.58
+South Africa,2003,life_expectancy,54.24
+South Africa,2004,life_expectancy,53.96
+South Africa,2005,life_expectancy,53.91
+South Africa,2006,life_expectancy,54.22
+South Africa,2007,life_expectancy,54.95
+South Africa,2008,life_expectancy,55.98
+South Africa,2009,life_expectancy,57.41
+South Africa,2010,life_expectancy,58.89
+South Africa,2011,life_expectancy,60.6
+South Africa,2012,life_expectancy,61.74
+South Africa,2013,life_expectancy,62.39
+South Africa,2014,life_expectancy,63.18
+South Africa,2015,life_expectancy,64.05
+South Africa,2016,life_expectancy,64.75
+South Africa,2017,life_expectancy,65.42
+South Africa,2018,life_expectancy,65.73
+South Africa,2019,life_expectancy,66.07
+South Africa,2020,life_expectancy,65.15
+South Africa,2021,life_expectancy,62.01
+South Africa,2022,life_expectancy,65.45
+South Africa,2023,life_expectancy,66.14
+South Africa,2024,life_expectancy,66.31
+Sub-Saharan Africa,1990,life_expectancy,50.03
+Sub-Saharan Africa,1991,life_expectancy,49.93
+Sub-Saharan Africa,1992,life_expectancy,49.9
+Sub-Saharan Africa,1993,life_expectancy,50.18
+Sub-Saharan Africa,1994,life_expectancy,50.12
+Sub-Saharan Africa,1995,life_expectancy,50.49
+Sub-Saharan Africa,1996,life_expectancy,50.45
+Sub-Saharan Africa,1997,life_expectancy,50.62
+Sub-Saharan Africa,1998,life_expectancy,50.56
+Sub-Saharan Africa,1999,life_expectancy,51.01
+Sub-Saharan Africa,2000,life_expectancy,51.64
+Sub-Saharan Africa,2001,life_expectancy,51.99
+Sub-Saharan Africa,2002,life_expectancy,52.36
+Sub-Saharan Africa,2003,life_expectancy,52.83
+Sub-Saharan Africa,2004,life_expectancy,53.35
+Sub-Saharan Africa,2005,life_expectancy,53.89
+Sub-Saharan Africa,2006,life_expectancy,54.59
+Sub-Saharan Africa,2007,life_expectancy,55.26
+Sub-Saharan Africa,2008,life_expectancy,55.89
+Sub-Saharan Africa,2009,life_expectancy,56.37
+Sub-Saharan Africa,2010,life_expectancy,57.11
+Sub-Saharan Africa,2011,life_expectancy,57.47
+Sub-Saharan Africa,2012,life_expectancy,58.23
+Sub-Saharan Africa,2013,life_expectancy,58.72
+Sub-Saharan Africa,2014,life_expectancy,58.99
+Sub-Saharan Africa,2015,life_expectancy,59.4
+Sub-Saharan Africa,2016,life_expectancy,59.81
+Sub-Saharan Africa,2017,life_expectancy,60.16
+Sub-Saharan Africa,2018,life_expectancy,60.77
+Sub-Saharan Africa,2019,life_expectancy,61.13
+Sub-Saharan Africa,2020,life_expectancy,61.17
+Sub-Saharan Africa,2021,life_expectancy,60.7
+Sub-Saharan Africa,2022,life_expectancy,61.86
+Sub-Saharan Africa,2023,life_expectancy,62.6
+Sub-Saharan Africa,2024,life_expectancy,62.8
+World,1990,life_expectancy,65.11
+World,1991,life_expectancy,65.3
+World,1992,life_expectancy,65.55
+World,1993,life_expectancy,65.74
+World,1994,life_expectancy,65.96
+World,1995,life_expectancy,66.2
+World,1996,life_expectancy,66.52
+World,1997,life_expectancy,66.83
+World,1998,life_expectancy,67.07
+World,1999,life_expectancy,67.31
+World,2000,life_expectancy,67.65
+World,2001,life_expectancy,67.95
+World,2002,life_expectancy,68.23
+World,2003,life_expectancy,68.52
+World,2004,life_expectancy,68.77
+World,2005,life_expectancy,69.11
+World,2006,life_expectancy,69.47
+World,2007,life_expectancy,69.8
+World,2008,life_expectancy,70.0
+World,2009,life_expectancy,70.38
+World,2010,life_expectancy,70.68
+World,2011,life_expectancy,70.97
+World,2012,life_expectancy,71.26
+World,2013,life_expectancy,71.53
+World,2014,life_expectancy,71.78
+World,2015,life_expectancy,71.97
+World,2016,life_expectancy,72.19
+World,2017,life_expectancy,72.37
+World,2018,life_expectancy,72.64
+World,2019,life_expectancy,72.87
+World,2020,life_expectancy,72.18
+World,2021,life_expectancy,71.22
+World,2022,life_expectancy,72.97
+World,2023,life_expectancy,73.33
+World,2024,life_expectancy,73.48
+Cameroon,2000,malaria_deaths,17946.0
+Cameroon,2001,malaria_deaths,19003.0
+Cameroon,2002,malaria_deaths,18854.0
+Cameroon,2003,malaria_deaths,19955.0
+Cameroon,2004,malaria_deaths,20746.0
+Cameroon,2005,malaria_deaths,20550.0
+Cameroon,2006,malaria_deaths,19397.0
+Cameroon,2007,malaria_deaths,16876.0
+Cameroon,2008,malaria_deaths,14277.0
+Cameroon,2009,malaria_deaths,13280.0
+Cameroon,2010,malaria_deaths,12439.0
+Cameroon,2011,malaria_deaths,11870.0
+Cameroon,2012,malaria_deaths,12071.0
+Cameroon,2013,malaria_deaths,12222.0
+Cameroon,2014,malaria_deaths,12229.0
+Cameroon,2015,malaria_deaths,12214.0
+Cameroon,2016,malaria_deaths,12120.0
+Cameroon,2017,malaria_deaths,11922.0
+Cameroon,2018,malaria_deaths,11779.0
+Cameroon,2019,malaria_deaths,11458.0
+Cameroon,2020,malaria_deaths,13523.0
+Cameroon,2021,malaria_deaths,12961.0
+Cameroon,2022,malaria_deaths,12779.0
+Cameroon,2023,malaria_deaths,11602.0
+Cameroon,2024,malaria_deaths,11702.0
+Ethiopia,2000,malaria_deaths,22200.0
+Ethiopia,2001,malaria_deaths,21343.0
+Ethiopia,2002,malaria_deaths,20217.0
+Ethiopia,2003,malaria_deaths,21797.0
+Ethiopia,2004,malaria_deaths,23117.0
+Ethiopia,2005,malaria_deaths,16511.0
+Ethiopia,2006,malaria_deaths,14955.0
+Ethiopia,2007,malaria_deaths,12409.0
+Ethiopia,2008,malaria_deaths,10808.0
+Ethiopia,2009,malaria_deaths,16003.0
+Ethiopia,2010,malaria_deaths,18909.0
+Ethiopia,2011,malaria_deaths,16648.0
+Ethiopia,2012,malaria_deaths,19915.0
+Ethiopia,2013,malaria_deaths,26097.0
+Ethiopia,2014,malaria_deaths,22273.0
+Ethiopia,2015,malaria_deaths,21051.0
+Ethiopia,2016,malaria_deaths,15473.0
+Ethiopia,2017,malaria_deaths,12046.0
+Ethiopia,2018,malaria_deaths,6500.0
+Ethiopia,2019,malaria_deaths,5708.0
+Ethiopia,2020,malaria_deaths,9424.0
+Ethiopia,2021,malaria_deaths,8041.0
+Ethiopia,2022,malaria_deaths,10570.0
+Ethiopia,2023,malaria_deaths,18567.0
+Ethiopia,2024,malaria_deaths,22360.0
+Ghana,2000,malaria_deaths,19744.0
+Ghana,2001,malaria_deaths,18932.0
+Ghana,2002,malaria_deaths,17932.0
+Ghana,2003,malaria_deaths,16738.0
+Ghana,2004,malaria_deaths,15615.0
+Ghana,2005,malaria_deaths,14843.0
+Ghana,2006,malaria_deaths,14959.0
+Ghana,2007,malaria_deaths,14904.0
+Ghana,2008,malaria_deaths,15464.0
+Ghana,2009,malaria_deaths,16485.0
+Ghana,2010,malaria_deaths,16891.0
+Ghana,2011,malaria_deaths,17163.0
+Ghana,2012,malaria_deaths,16573.0
+Ghana,2013,malaria_deaths,15618.0
+Ghana,2014,malaria_deaths,14384.0
+Ghana,2015,malaria_deaths,13260.0
+Ghana,2016,malaria_deaths,12293.0
+Ghana,2017,malaria_deaths,11522.0
+Ghana,2018,malaria_deaths,11103.0
+Ghana,2019,malaria_deaths,11116.0
+Ghana,2020,malaria_deaths,11311.0
+Ghana,2021,malaria_deaths,11373.0
+Ghana,2022,malaria_deaths,11463.0
+Ghana,2023,malaria_deaths,11464.0
+Ghana,2024,malaria_deaths,11635.0
+Kenya,2000,malaria_deaths,11766.0
+Kenya,2001,malaria_deaths,13613.0
+Kenya,2002,malaria_deaths,13391.0
+Kenya,2003,malaria_deaths,12672.0
+Kenya,2004,malaria_deaths,11284.0
+Kenya,2005,malaria_deaths,10157.0
+Kenya,2006,malaria_deaths,9563.0
+Kenya,2007,malaria_deaths,9398.0
+Kenya,2008,malaria_deaths,9301.0
+Kenya,2009,malaria_deaths,9459.0
+Kenya,2010,malaria_deaths,9664.0
+Kenya,2011,malaria_deaths,10091.0
+Kenya,2012,malaria_deaths,10203.0
+Kenya,2013,malaria_deaths,10297.0
+Kenya,2014,malaria_deaths,10393.0
+Kenya,2015,malaria_deaths,10423.0
+Kenya,2016,malaria_deaths,10483.0
+Kenya,2017,malaria_deaths,10664.0
+Kenya,2018,malaria_deaths,10789.0
+Kenya,2019,malaria_deaths,10883.0
+Kenya,2020,malaria_deaths,11384.0
+Kenya,2021,malaria_deaths,11669.0
+Kenya,2022,malaria_deaths,11811.0
+Kenya,2023,malaria_deaths,11478.0
+Kenya,2024,malaria_deaths,11656.0
+Niger,2000,malaria_deaths,23204.0
+Niger,2001,malaria_deaths,22246.0
+Niger,2002,malaria_deaths,20549.0
+Niger,2003,malaria_deaths,18243.0
+Niger,2004,malaria_deaths,17868.0
+Niger,2005,malaria_deaths,21033.0
+Niger,2006,malaria_deaths,16688.0
+Niger,2007,malaria_deaths,18725.0
+Niger,2008,malaria_deaths,19721.0
+Niger,2009,malaria_deaths,26151.0
+Niger,2010,malaria_deaths,26267.0
+Niger,2011,malaria_deaths,31339.0
+Niger,2012,malaria_deaths,29168.0
+Niger,2013,malaria_deaths,31459.0
+Niger,2014,malaria_deaths,30698.0
+Niger,2015,malaria_deaths,32906.0
+Niger,2016,malaria_deaths,35085.0
+Niger,2017,malaria_deaths,31978.0
+Niger,2018,malaria_deaths,32934.0
+Niger,2019,malaria_deaths,32319.0
+Niger,2020,malaria_deaths,35694.0
+Niger,2021,malaria_deaths,34234.0
+Niger,2022,malaria_deaths,34802.0
+Niger,2023,malaria_deaths,35381.0
+Niger,2024,malaria_deaths,35478.0
+Nigeria,2000,malaria_deaths,226214.0
+Nigeria,2001,malaria_deaths,226394.0
+Nigeria,2002,malaria_deaths,230268.0
+Nigeria,2003,malaria_deaths,205773.0
+Nigeria,2004,malaria_deaths,226329.0
+Nigeria,2005,malaria_deaths,209804.0
+Nigeria,2006,malaria_deaths,238098.0
+Nigeria,2007,malaria_deaths,231657.0
+Nigeria,2008,malaria_deaths,220910.0
+Nigeria,2009,malaria_deaths,218497.0
+Nigeria,2010,malaria_deaths,199233.0
+Nigeria,2011,malaria_deaths,183768.0
+Nigeria,2012,malaria_deaths,172012.0
+Nigeria,2013,malaria_deaths,163867.0
+Nigeria,2014,malaria_deaths,165886.0
+Nigeria,2015,malaria_deaths,169052.0
+Nigeria,2016,malaria_deaths,171827.0
+Nigeria,2017,malaria_deaths,177176.0
+Nigeria,2018,malaria_deaths,181095.0
+Nigeria,2019,malaria_deaths,181560.0
+Nigeria,2020,malaria_deaths,200257.0
+Nigeria,2021,malaria_deaths,190761.0
+Nigeria,2022,malaria_deaths,187692.0
+Nigeria,2023,malaria_deaths,184689.0
+Nigeria,2024,malaria_deaths,184933.0
+South Africa,2000,malaria_deaths,424.0
+South Africa,2001,malaria_deaths,81.0
+South Africa,2002,malaria_deaths,96.0
+South Africa,2003,malaria_deaths,142.0
+South Africa,2004,malaria_deaths,88.0
+South Africa,2005,malaria_deaths,63.0
+South Africa,2006,malaria_deaths,87.0
+South Africa,2007,malaria_deaths,37.0
+South Africa,2008,malaria_deaths,43.0
+South Africa,2009,malaria_deaths,45.0
+South Africa,2010,malaria_deaths,83.0
+South Africa,2011,malaria_deaths,54.0
+South Africa,2012,malaria_deaths,72.0
+South Africa,2013,malaria_deaths,105.0
+South Africa,2014,malaria_deaths,174.0
+South Africa,2015,malaria_deaths,110.0
+South Africa,2016,malaria_deaths,34.0
+South Africa,2017,malaria_deaths,301.0
+South Africa,2018,malaria_deaths,69.0
+South Africa,2019,malaria_deaths,79.0
+South Africa,2020,malaria_deaths,38.0
+South Africa,2021,malaria_deaths,56.0
+South Africa,2022,malaria_deaths,29.0
+South Africa,2023,malaria_deaths,64.0
+South Africa,2024,malaria_deaths,10.0
+WHO Africa region,2000,malaria_deaths,803875.0
+WHO Africa region,2001,malaria_deaths,814909.0
+WHO Africa region,2002,malaria_deaths,786171.0
+WHO Africa region,2003,malaria_deaths,757841.0
+WHO Africa region,2004,malaria_deaths,750885.0
+WHO Africa region,2005,malaria_deaths,711890.0
+WHO Africa region,2006,malaria_deaths,723010.0
+WHO Africa region,2007,malaria_deaths,704128.0
+WHO Africa region,2008,malaria_deaths,666264.0
+WHO Africa region,2009,malaria_deaths,673380.0
+WHO Africa region,2010,malaria_deaths,649500.0
+WHO Africa region,2011,malaria_deaths,618413.0
+WHO Africa region,2012,malaria_deaths,577788.0
+WHO Africa region,2013,malaria_deaths,555617.0
+WHO Africa region,2014,malaria_deaths,550373.0
+WHO Africa region,2015,malaria_deaths,549859.0
+WHO Africa region,2016,malaria_deaths,546136.0
+WHO Africa region,2017,malaria_deaths,547624.0
+WHO Africa region,2018,malaria_deaths,551673.0
+WHO Africa region,2019,malaria_deaths,544797.0
+WHO Africa region,2020,malaria_deaths,597732.0
+WHO Africa region,2021,malaria_deaths,576777.0
+WHO Africa region,2022,malaria_deaths,572667.0
+WHO Africa region,2023,malaria_deaths,567342.0
+WHO Africa region,2024,malaria_deaths,578766.0
+World,2000,malaria_deaths,863523.0
+World,2001,malaria_deaths,872604.0
+World,2002,malaria_deaths,839722.0
+World,2003,malaria_deaths,810977.0
+World,2004,malaria_deaths,805560.0
+World,2005,malaria_deaths,766588.0
+World,2006,malaria_deaths,770629.0
+World,2007,malaria_deaths,747217.0
+World,2008,malaria_deaths,707532.0
+World,2009,malaria_deaths,715496.0
+World,2010,malaria_deaths,692678.0
+World,2011,malaria_deaths,654715.0
+World,2012,malaria_deaths,610323.0
+World,2013,malaria_deaths,583041.0
+World,2014,malaria_deaths,579066.0
+World,2015,malaria_deaths,578270.0
+World,2016,malaria_deaths,576447.0
+World,2017,malaria_deaths,574421.0
+World,2018,malaria_deaths,574784.0
+World,2019,malaria_deaths,567186.0
+World,2020,malaria_deaths,621344.0
+World,2021,malaria_deaths,600935.0
+World,2022,malaria_deaths,598407.0
+World,2023,malaria_deaths,598446.0
+World,2024,malaria_deaths,609930.0
+Cameroon,1990,maternal_mortality,570.0
+Cameroon,1991,maternal_mortality,584.0
+Cameroon,1992,maternal_mortality,595.0
+Cameroon,1993,maternal_mortality,606.0
+Cameroon,1994,maternal_mortality,628.0
+Cameroon,1995,maternal_mortality,641.0
+Cameroon,1996,maternal_mortality,648.0
+Cameroon,1997,maternal_mortality,652.0
+Cameroon,1998,maternal_mortality,666.0
+Cameroon,1999,maternal_mortality,672.0
+Cameroon,2000,maternal_mortality,678.0
+Cameroon,2001,maternal_mortality,672.0
+Cameroon,2002,maternal_mortality,658.0
+Cameroon,2003,maternal_mortality,645.0
+Cameroon,2004,maternal_mortality,633.0
+Cameroon,2005,maternal_mortality,629.0
+Cameroon,2006,maternal_mortality,615.0
+Cameroon,2007,maternal_mortality,605.0
+Cameroon,2008,maternal_mortality,592.0
+Cameroon,2009,maternal_mortality,579.0
+Cameroon,2010,maternal_mortality,562.0
+Cameroon,2011,maternal_mortality,541.0
+Cameroon,2012,maternal_mortality,500.0
+Cameroon,2013,maternal_mortality,469.0
+Cameroon,2014,maternal_mortality,440.0
+Cameroon,2015,maternal_mortality,417.0
+Cameroon,2016,maternal_mortality,393.0
+Cameroon,2017,maternal_mortality,372.0
+Cameroon,2018,maternal_mortality,354.0
+Cameroon,2019,maternal_mortality,336.0
+Cameroon,2020,maternal_mortality,316.0
+Cameroon,2021,maternal_mortality,342.0
+Cameroon,2022,maternal_mortality,276.0
+Cameroon,2023,maternal_mortality,258.0
+Ethiopia,1990,maternal_mortality,1320.0
+Ethiopia,1991,maternal_mortality,1239.0
+Ethiopia,1992,maternal_mortality,1218.0
+Ethiopia,1993,maternal_mortality,1168.0
+Ethiopia,1994,maternal_mortality,1113.0
+Ethiopia,1995,maternal_mortality,1060.0
+Ethiopia,1996,maternal_mortality,1008.0
+Ethiopia,1997,maternal_mortality,957.0
+Ethiopia,1998,maternal_mortality,911.0
+Ethiopia,1999,maternal_mortality,901.0
+Ethiopia,2000,maternal_mortality,870.0
+Ethiopia,2001,maternal_mortality,856.0
+Ethiopia,2002,maternal_mortality,826.0
+Ethiopia,2003,maternal_mortality,797.0
+Ethiopia,2004,maternal_mortality,764.0
+Ethiopia,2005,maternal_mortality,754.0
+Ethiopia,2006,maternal_mortality,729.0
+Ethiopia,2007,maternal_mortality,704.0
+Ethiopia,2008,maternal_mortality,678.0
+Ethiopia,2009,maternal_mortality,649.0
+Ethiopia,2010,maternal_mortality,619.0
+Ethiopia,2011,maternal_mortality,588.0
+Ethiopia,2012,maternal_mortality,545.0
+Ethiopia,2013,maternal_mortality,494.0
+Ethiopia,2014,maternal_mortality,444.0
+Ethiopia,2015,maternal_mortality,401.0
+Ethiopia,2016,maternal_mortality,364.0
+Ethiopia,2017,maternal_mortality,327.0
+Ethiopia,2018,maternal_mortality,297.0
+Ethiopia,2019,maternal_mortality,269.0
+Ethiopia,2020,maternal_mortality,244.0
+Ethiopia,2021,maternal_mortality,250.0
+Ethiopia,2022,maternal_mortality,207.0
+Ethiopia,2023,maternal_mortality,195.0
+Ghana,1990,maternal_mortality,769.0
+Ghana,1991,maternal_mortality,745.0
+Ghana,1992,maternal_mortality,718.0
+Ghana,1993,maternal_mortality,696.0
+Ghana,1994,maternal_mortality,670.0
+Ghana,1995,maternal_mortality,630.0
+Ghana,1996,maternal_mortality,591.0
+Ghana,1997,maternal_mortality,553.0
+Ghana,1998,maternal_mortality,521.0
+Ghana,1999,maternal_mortality,490.0
+Ghana,2000,maternal_mortality,472.0
+Ghana,2001,maternal_mortality,460.0
+Ghana,2002,maternal_mortality,434.0
+Ghana,2003,maternal_mortality,410.0
+Ghana,2004,maternal_mortality,403.0
+Ghana,2005,maternal_mortality,390.0
+Ghana,2006,maternal_mortality,385.0
+Ghana,2007,maternal_mortality,377.0
+Ghana,2008,maternal_mortality,380.0
+Ghana,2009,maternal_mortality,369.0
+Ghana,2010,maternal_mortality,363.0
+Ghana,2011,maternal_mortality,356.0
+Ghana,2012,maternal_mortality,351.0
+Ghana,2013,maternal_mortality,338.0
+Ghana,2014,maternal_mortality,317.0
+Ghana,2015,maternal_mortality,310.0
+Ghana,2016,maternal_mortality,296.0
+Ghana,2017,maternal_mortality,287.0
+Ghana,2018,maternal_mortality,276.0
+Ghana,2019,maternal_mortality,260.0
+Ghana,2020,maternal_mortality,253.0
+Ghana,2021,maternal_mortality,264.0
+Ghana,2022,maternal_mortality,239.0
+Ghana,2023,maternal_mortality,234.0
+Kenya,1990,maternal_mortality,586.0
+Kenya,1991,maternal_mortality,493.0
+Kenya,1992,maternal_mortality,419.0
+Kenya,1993,maternal_mortality,363.0
+Kenya,1994,maternal_mortality,342.0
+Kenya,1995,maternal_mortality,308.0
+Kenya,1996,maternal_mortality,275.0
+Kenya,1997,maternal_mortality,253.0
+Kenya,1998,maternal_mortality,250.0
+Kenya,1999,maternal_mortality,217.0
+Kenya,2000,maternal_mortality,206.0
+Kenya,2001,maternal_mortality,188.0
+Kenya,2002,maternal_mortality,182.0
+Kenya,2003,maternal_mortality,177.0
+Kenya,2004,maternal_mortality,177.0
+Kenya,2005,maternal_mortality,178.0
+Kenya,2006,maternal_mortality,188.0
+Kenya,2007,maternal_mortality,198.0
+Kenya,2008,maternal_mortality,197.0
+Kenya,2009,maternal_mortality,208.0
+Kenya,2010,maternal_mortality,210.0
+Kenya,2011,maternal_mortality,209.0
+Kenya,2012,maternal_mortality,214.0
+Kenya,2013,maternal_mortality,206.0
+Kenya,2014,maternal_mortality,203.0
+Kenya,2015,maternal_mortality,203.0
+Kenya,2016,maternal_mortality,196.0
+Kenya,2017,maternal_mortality,186.0
+Kenya,2018,maternal_mortality,183.0
+Kenya,2019,maternal_mortality,176.0
+Kenya,2020,maternal_mortality,184.0
+Kenya,2021,maternal_mortality,183.0
+Kenya,2022,maternal_mortality,155.0
+Kenya,2023,maternal_mortality,149.0
+Niger,1990,maternal_mortality,983.0
+Niger,1991,maternal_mortality,957.0
+Niger,1992,maternal_mortality,926.0
+Niger,1993,maternal_mortality,903.0
+Niger,1994,maternal_mortality,883.0
+Niger,1995,maternal_mortality,865.0
+Niger,1996,maternal_mortality,854.0
+Niger,1997,maternal_mortality,841.0
+Niger,1998,maternal_mortality,839.0
+Niger,1999,maternal_mortality,841.0
+Niger,2000,maternal_mortality,845.0
+Niger,2001,maternal_mortality,843.0
+Niger,2002,maternal_mortality,835.0
+Niger,2003,maternal_mortality,813.0
+Niger,2004,maternal_mortality,790.0
+Niger,2005,maternal_mortality,764.0
+Niger,2006,maternal_mortality,737.0
+Niger,2007,maternal_mortality,704.0
+Niger,2008,maternal_mortality,669.0
+Niger,2009,maternal_mortality,647.0
+Niger,2010,maternal_mortality,621.0
+Niger,2011,maternal_mortality,585.0
+Niger,2012,maternal_mortality,554.0
+Niger,2013,maternal_mortality,526.0
+Niger,2014,maternal_mortality,497.0
+Niger,2015,maternal_mortality,473.0
+Niger,2016,maternal_mortality,450.0
+Niger,2017,maternal_mortality,433.0
+Niger,2018,maternal_mortality,420.0
+Niger,2019,maternal_mortality,406.0
+Niger,2020,maternal_mortality,388.0
+Niger,2021,maternal_mortality,396.0
+Niger,2022,maternal_mortality,361.0
+Niger,2023,maternal_mortality,350.0
+Nigeria,1990,maternal_mortality,1285.0
+Nigeria,1991,maternal_mortality,1282.0
+Nigeria,1992,maternal_mortality,1246.0
+Nigeria,1993,maternal_mortality,1200.0
+Nigeria,1994,maternal_mortality,1193.0
+Nigeria,1995,maternal_mortality,1186.0
+Nigeria,1996,maternal_mortality,1185.0
+Nigeria,1997,maternal_mortality,1184.0
+Nigeria,1998,maternal_mortality,1189.0
+Nigeria,1999,maternal_mortality,1165.0
+Nigeria,2000,maternal_mortality,1136.0
+Nigeria,2001,maternal_mortality,1130.0
+Nigeria,2002,maternal_mortality,1117.0
+Nigeria,2003,maternal_mortality,1090.0
+Nigeria,2004,maternal_mortality,1075.0
+Nigeria,2005,maternal_mortality,1060.0
+Nigeria,2006,maternal_mortality,1067.0
+Nigeria,2007,maternal_mortality,1063.0
+Nigeria,2008,maternal_mortality,1081.0
+Nigeria,2009,maternal_mortality,1088.0
+Nigeria,2010,maternal_mortality,1094.0
+Nigeria,2011,maternal_mortality,1108.0
+Nigeria,2012,maternal_mortality,1124.0
+Nigeria,2013,maternal_mortality,1146.0
+Nigeria,2014,maternal_mortality,1155.0
+Nigeria,2015,maternal_mortality,1168.0
+Nigeria,2016,maternal_mortality,1155.0
+Nigeria,2017,maternal_mortality,1142.0
+Nigeria,2018,maternal_mortality,1118.0
+Nigeria,2019,maternal_mortality,1091.0
+Nigeria,2020,maternal_mortality,1065.0
+Nigeria,2021,maternal_mortality,1046.0
+Nigeria,2022,maternal_mortality,1016.0
+Nigeria,2023,maternal_mortality,993.0
+South Africa,1990,maternal_mortality,170.0
+South Africa,1991,maternal_mortality,162.0
+South Africa,1992,maternal_mortality,152.0
+South Africa,1993,maternal_mortality,145.0
+South Africa,1994,maternal_mortality,133.0
+South Africa,1995,maternal_mortality,125.0
+South Africa,1996,maternal_mortality,150.0
+South Africa,1997,maternal_mortality,152.0
+South Africa,1998,maternal_mortality,152.0
+South Africa,1999,maternal_mortality,151.0
+South Africa,2000,maternal_mortality,175.0
+South Africa,2001,maternal_mortality,192.0
+South Africa,2002,maternal_mortality,225.0
+South Africa,2003,maternal_mortality,245.0
+South Africa,2004,maternal_mortality,259.0
+South Africa,2005,maternal_mortality,279.0
+South Africa,2006,maternal_mortality,283.0
+South Africa,2007,maternal_mortality,272.0
+South Africa,2008,maternal_mortality,272.0
+South Africa,2009,maternal_mortality,241.0
+South Africa,2010,maternal_mortality,226.0
+South Africa,2011,maternal_mortality,202.0
+South Africa,2012,maternal_mortality,194.0
+South Africa,2013,maternal_mortality,180.0
+South Africa,2014,maternal_mortality,162.0
+South Africa,2015,maternal_mortality,150.0
+South Africa,2016,maternal_mortality,141.0
+South Africa,2017,maternal_mortality,134.0
+South Africa,2018,maternal_mortality,128.0
+South Africa,2019,maternal_mortality,119.0
+South Africa,2020,maternal_mortality,118.0
+South Africa,2021,maternal_mortality,191.0
+South Africa,2022,maternal_mortality,129.0
+South Africa,2023,maternal_mortality,118.0
+Sub-Saharan Africa,1990,maternal_mortality,1004.0
+Sub-Saharan Africa,1991,maternal_mortality,979.0
+Sub-Saharan Africa,1992,maternal_mortality,989.0
+Sub-Saharan Africa,1993,maternal_mortality,963.0
+Sub-Saharan Africa,1994,maternal_mortality,925.0
+Sub-Saharan Africa,1995,maternal_mortality,870.0
+Sub-Saharan Africa,1996,maternal_mortality,855.0
+Sub-Saharan Africa,1997,maternal_mortality,832.0
+Sub-Saharan Africa,1998,maternal_mortality,855.0
+Sub-Saharan Africa,1999,maternal_mortality,772.0
+Sub-Saharan Africa,2000,maternal_mortality,744.0
+Sub-Saharan Africa,2001,maternal_mortality,726.0
+Sub-Saharan Africa,2002,maternal_mortality,709.0
+Sub-Saharan Africa,2003,maternal_mortality,685.0
+Sub-Saharan Africa,2004,maternal_mortality,666.0
+Sub-Saharan Africa,2005,maternal_mortality,658.0
+Sub-Saharan Africa,2006,maternal_mortality,656.0
+Sub-Saharan Africa,2007,maternal_mortality,654.0
+Sub-Saharan Africa,2008,maternal_mortality,656.0
+Sub-Saharan Africa,2009,maternal_mortality,652.0
+Sub-Saharan Africa,2010,maternal_mortality,643.0
+Sub-Saharan Africa,2011,maternal_mortality,633.0
+Sub-Saharan Africa,2012,maternal_mortality,620.0
+Sub-Saharan Africa,2013,maternal_mortality,610.0
+Sub-Saharan Africa,2014,maternal_mortality,604.0
+Sub-Saharan Africa,2015,maternal_mortality,593.0
+Sub-Saharan Africa,2016,maternal_mortality,575.0
+Sub-Saharan Africa,2017,maternal_mortality,554.0
+Sub-Saharan Africa,2018,maternal_mortality,526.0
+Sub-Saharan Africa,2019,maternal_mortality,507.0
+Sub-Saharan Africa,2020,maternal_mortality,486.0
+Sub-Saharan Africa,2021,maternal_mortality,501.0
+Sub-Saharan Africa,2022,maternal_mortality,455.0
+Sub-Saharan Africa,2023,maternal_mortality,448.0
+World,1990,maternal_mortality,391.0
+World,1991,maternal_mortality,395.0
+World,1992,maternal_mortality,395.0
+World,1993,maternal_mortality,389.0
+World,1994,maternal_mortality,382.0
+World,1995,maternal_mortality,371.0
+World,1996,maternal_mortality,366.0
+World,1997,maternal_mortality,358.0
+World,1998,maternal_mortality,360.0
+World,1999,maternal_mortality,340.0
+World,2000,maternal_mortality,328.0
+World,2001,maternal_mortality,321.0
+World,2002,maternal_mortality,311.0
+World,2003,maternal_mortality,301.0
+World,2004,maternal_mortality,291.0
+World,2005,maternal_mortality,283.0
+World,2006,maternal_mortality,276.0
+World,2007,maternal_mortality,269.0
+World,2008,maternal_mortality,264.0
+World,2009,maternal_mortality,258.0
+World,2010,maternal_mortality,253.0
+World,2011,maternal_mortality,247.0
+World,2012,maternal_mortality,239.0
+World,2013,maternal_mortality,235.0
+World,2014,maternal_mortality,231.0
+World,2015,maternal_mortality,228.0
+World,2016,maternal_mortality,220.0
+World,2017,maternal_mortality,215.0
+World,2018,maternal_mortality,211.0
+World,2019,maternal_mortality,207.0
+World,2020,maternal_mortality,211.0
+World,2021,maternal_mortality,242.0
+World,2022,maternal_mortality,203.0
+World,2023,maternal_mortality,197.0
 Cameroon,1990,measles_coverage,56.0
 Cameroon,1991,measles_coverage,48.0
 Cameroon,1992,measles_coverage,37.0
@@ -589,10 +1182,19 @@ Cameroon,2008,measles_coverage,80.0
 Cameroon,2009,measles_coverage,74.0
 Cameroon,2010,measles_coverage,79.0
 Cameroon,2011,measles_coverage,76.0
-Cameroon,2012,measles_coverage,82.0
-Cameroon,2013,measles_coverage,83.0
-Cameroon,2014,measles_coverage,80.0
-Cameroon,2015,measles_coverage,79.0
+Cameroon,2012,measles_coverage,74.0
+Cameroon,2013,measles_coverage,71.0
+Cameroon,2014,measles_coverage,71.0
+Cameroon,2015,measles_coverage,71.0
+Cameroon,2016,measles_coverage,72.0
+Cameroon,2017,measles_coverage,67.0
+Cameroon,2018,measles_coverage,61.0
+Cameroon,2019,measles_coverage,61.0
+Cameroon,2020,measles_coverage,63.0
+Cameroon,2021,measles_coverage,65.0
+Cameroon,2022,measles_coverage,68.0
+Cameroon,2023,measles_coverage,71.0
+Cameroon,2024,measles_coverage,71.0
 Ethiopia,1990,measles_coverage,38.0
 Ethiopia,1991,measles_coverage,17.0
 Ethiopia,1992,measles_coverage,12.0
@@ -601,12 +1203,12 @@ Ethiopia,1994,measles_coverage,54.0
 Ethiopia,1995,measles_coverage,38.0
 Ethiopia,1996,measles_coverage,54.0
 Ethiopia,1997,measles_coverage,51.0
-Ethiopia,1998,measles_coverage,44.0
-Ethiopia,1999,measles_coverage,37.0
-Ethiopia,2000,measles_coverage,36.0
-Ethiopia,2001,measles_coverage,35.0
-Ethiopia,2002,measles_coverage,36.0
-Ethiopia,2003,measles_coverage,35.0
+Ethiopia,1998,measles_coverage,39.0
+Ethiopia,1999,measles_coverage,27.0
+Ethiopia,2000,measles_coverage,28.0
+Ethiopia,2001,measles_coverage,29.0
+Ethiopia,2002,measles_coverage,32.0
+Ethiopia,2003,measles_coverage,33.0
 Ethiopia,2004,measles_coverage,35.0
 Ethiopia,2005,measles_coverage,40.0
 Ethiopia,2006,measles_coverage,44.0
@@ -615,10 +1217,19 @@ Ethiopia,2008,measles_coverage,54.0
 Ethiopia,2009,measles_coverage,59.0
 Ethiopia,2010,measles_coverage,64.0
 Ethiopia,2011,measles_coverage,68.0
-Ethiopia,2012,measles_coverage,65.0
-Ethiopia,2013,measles_coverage,62.0
-Ethiopia,2014,measles_coverage,70.0
-Ethiopia,2015,measles_coverage,78.0
+Ethiopia,2012,measles_coverage,62.0
+Ethiopia,2013,measles_coverage,55.0
+Ethiopia,2014,measles_coverage,54.0
+Ethiopia,2015,measles_coverage,56.0
+Ethiopia,2016,measles_coverage,57.0
+Ethiopia,2017,measles_coverage,59.0
+Ethiopia,2018,measles_coverage,54.0
+Ethiopia,2019,measles_coverage,56.0
+Ethiopia,2020,measles_coverage,57.0
+Ethiopia,2021,measles_coverage,60.0
+Ethiopia,2022,measles_coverage,62.0
+Ethiopia,2023,measles_coverage,68.0
+Ethiopia,2024,measles_coverage,72.0
 Ghana,1990,measles_coverage,61.0
 Ghana,1991,measles_coverage,63.0
 Ghana,1992,measles_coverage,64.0
@@ -641,10 +1252,19 @@ Ghana,2008,measles_coverage,86.0
 Ghana,2009,measles_coverage,93.0
 Ghana,2010,measles_coverage,93.0
 Ghana,2011,measles_coverage,91.0
-Ghana,2012,measles_coverage,88.0
+Ghana,2012,measles_coverage,89.0
 Ghana,2013,measles_coverage,89.0
 Ghana,2014,measles_coverage,92.0
 Ghana,2015,measles_coverage,89.0
+Ghana,2016,measles_coverage,89.0
+Ghana,2017,measles_coverage,95.0
+Ghana,2018,measles_coverage,92.0
+Ghana,2019,measles_coverage,92.0
+Ghana,2020,measles_coverage,88.0
+Ghana,2021,measles_coverage,94.0
+Ghana,2022,measles_coverage,95.0
+Ghana,2023,measles_coverage,90.0
+Ghana,2024,measles_coverage,90.0
 Kenya,1990,measles_coverage,78.0
 Kenya,1991,measles_coverage,81.0
 Kenya,1992,measles_coverage,84.0
@@ -653,7 +1273,7 @@ Kenya,1994,measles_coverage,84.0
 Kenya,1995,measles_coverage,83.0
 Kenya,1996,measles_coverage,81.0
 Kenya,1997,measles_coverage,79.0
-Kenya,1998,measles_coverage,90.0
+Kenya,1998,measles_coverage,78.0
 Kenya,1999,measles_coverage,76.0
 Kenya,2000,measles_coverage,78.0
 Kenya,2001,measles_coverage,77.0
@@ -668,9 +1288,18 @@ Kenya,2009,measles_coverage,88.0
 Kenya,2010,measles_coverage,86.0
 Kenya,2011,measles_coverage,87.0
 Kenya,2012,measles_coverage,93.0
-Kenya,2013,measles_coverage,73.0
-Kenya,2014,measles_coverage,79.0
-Kenya,2015,measles_coverage,75.0
+Kenya,2013,measles_coverage,94.0
+Kenya,2014,measles_coverage,95.0
+Kenya,2015,measles_coverage,96.0
+Kenya,2016,measles_coverage,93.0
+Kenya,2017,measles_coverage,84.0
+Kenya,2018,measles_coverage,92.0
+Kenya,2019,measles_coverage,92.0
+Kenya,2020,measles_coverage,89.0
+Kenya,2021,measles_coverage,90.0
+Kenya,2022,measles_coverage,89.0
+Kenya,2023,measles_coverage,91.0
+Kenya,2024,measles_coverage,88.0
 Niger,1990,measles_coverage,25.0
 Niger,1991,measles_coverage,28.0
 Niger,1992,measles_coverage,21.0
@@ -694,9 +1323,18 @@ Niger,2009,measles_coverage,69.0
 Niger,2010,measles_coverage,67.0
 Niger,2011,measles_coverage,69.0
 Niger,2012,measles_coverage,75.0
-Niger,2013,measles_coverage,76.0
-Niger,2014,measles_coverage,72.0
-Niger,2015,measles_coverage,73.0
+Niger,2013,measles_coverage,80.0
+Niger,2014,measles_coverage,80.0
+Niger,2015,measles_coverage,85.0
+Niger,2016,measles_coverage,76.0
+Niger,2017,measles_coverage,82.0
+Niger,2018,measles_coverage,77.0
+Niger,2019,measles_coverage,79.0
+Niger,2020,measles_coverage,79.0
+Niger,2021,measles_coverage,80.0
+Niger,2022,measles_coverage,65.0
+Niger,2023,measles_coverage,80.0
+Niger,2024,measles_coverage,81.0
 Nigeria,1990,measles_coverage,54.0
 Nigeria,1991,measles_coverage,57.0
 Nigeria,1992,measles_coverage,43.0
@@ -718,11 +1356,20 @@ Nigeria,2007,measles_coverage,41.0
 Nigeria,2008,measles_coverage,53.0
 Nigeria,2009,measles_coverage,64.0
 Nigeria,2010,measles_coverage,56.0
-Nigeria,2011,measles_coverage,49.0
-Nigeria,2012,measles_coverage,42.0
-Nigeria,2013,measles_coverage,47.0
-Nigeria,2014,measles_coverage,51.0
-Nigeria,2015,measles_coverage,54.0
+Nigeria,2011,measles_coverage,53.0
+Nigeria,2012,measles_coverage,41.0
+Nigeria,2013,measles_coverage,42.0
+Nigeria,2014,measles_coverage,42.0
+Nigeria,2015,measles_coverage,42.0
+Nigeria,2016,measles_coverage,48.0
+Nigeria,2017,measles_coverage,54.0
+Nigeria,2018,measles_coverage,56.0
+Nigeria,2019,measles_coverage,58.0
+Nigeria,2020,measles_coverage,60.0
+Nigeria,2021,measles_coverage,56.0
+Nigeria,2022,measles_coverage,51.0
+Nigeria,2023,measles_coverage,54.0
+Nigeria,2024,measles_coverage,57.0
 South Africa,1990,measles_coverage,79.0
 South Africa,1991,measles_coverage,85.0
 South Africa,1992,measles_coverage,85.0
@@ -737,107 +1384,178 @@ South Africa,2000,measles_coverage,72.0
 South Africa,2001,measles_coverage,69.0
 South Africa,2002,measles_coverage,65.0
 South Africa,2003,measles_coverage,62.0
-South Africa,2004,measles_coverage,57.0
-South Africa,2005,measles_coverage,63.0
-South Africa,2006,measles_coverage,64.0
-South Africa,2007,measles_coverage,62.0
-South Africa,2008,measles_coverage,64.0
-South Africa,2009,measles_coverage,78.0
-South Africa,2010,measles_coverage,74.0
-South Africa,2011,measles_coverage,78.0
+South Africa,2004,measles_coverage,63.0
+South Africa,2005,measles_coverage,64.0
+South Africa,2006,measles_coverage,69.0
+South Africa,2007,measles_coverage,68.0
+South Africa,2008,measles_coverage,73.0
+South Africa,2009,measles_coverage,77.0
+South Africa,2010,measles_coverage,72.0
+South Africa,2011,measles_coverage,77.0
 South Africa,2012,measles_coverage,79.0
-South Africa,2013,measles_coverage,66.0
-South Africa,2014,measles_coverage,70.0
-South Africa,2015,measles_coverage,76.0
-World,1990,measles_coverage,73.0
-World,1991,measles_coverage,69.0
-World,1992,measles_coverage,69.0
-World,1993,measles_coverage,70.0
-World,1994,measles_coverage,72.0
-World,1995,measles_coverage,73.0
-World,1996,measles_coverage,73.0
-World,1997,measles_coverage,71.0
-World,1998,measles_coverage,71.0
-World,1999,measles_coverage,71.0
-World,2000,measles_coverage,72.0
-World,2001,measles_coverage,73.0
-World,2002,measles_coverage,72.0
-World,2003,measles_coverage,74.0
-World,2004,measles_coverage,76.0
-World,2005,measles_coverage,78.0
-World,2006,measles_coverage,79.0
-World,2007,measles_coverage,80.0
-World,2008,measles_coverage,81.0
-World,2009,measles_coverage,84.0
-World,2010,measles_coverage,85.0
-World,2011,measles_coverage,85.0
-World,2012,measles_coverage,84.0
-World,2013,measles_coverage,84.0
-World,2014,measles_coverage,84.0
-World,2015,measles_coverage,85.0
-Cameroon,2000,tb_treatment_coverage,11.0
-Cameroon,2001,tb_treatment_coverage,22.0
-Cameroon,2002,tb_treatment_coverage,21.0
-Cameroon,2003,tb_treatment_coverage,30.0
-Cameroon,2004,tb_treatment_coverage,32.0
-Cameroon,2005,tb_treatment_coverage,39.0
-Cameroon,2006,tb_treatment_coverage,43.0
-Cameroon,2007,tb_treatment_coverage,44.0
-Cameroon,2008,tb_treatment_coverage,45.0
+South Africa,2013,measles_coverage,78.0
+South Africa,2014,measles_coverage,84.0
+South Africa,2015,measles_coverage,86.0
+South Africa,2016,measles_coverage,84.0
+South Africa,2017,measles_coverage,81.0
+South Africa,2018,measles_coverage,81.0
+South Africa,2019,measles_coverage,83.0
+South Africa,2020,measles_coverage,84.0
+South Africa,2021,measles_coverage,87.0
+South Africa,2022,measles_coverage,86.0
+South Africa,2023,measles_coverage,80.0
+South Africa,2024,measles_coverage,76.0
+Sub-Saharan Africa,1990,measles_coverage,56.54
+Sub-Saharan Africa,1991,measles_coverage,53.26
+Sub-Saharan Africa,1992,measles_coverage,50.08
+Sub-Saharan Africa,1993,measles_coverage,50.84
+Sub-Saharan Africa,1994,measles_coverage,54.2
+Sub-Saharan Africa,1995,measles_coverage,53.81
+Sub-Saharan Africa,1996,measles_coverage,53.53
+Sub-Saharan Africa,1997,measles_coverage,53.14
+Sub-Saharan Africa,1998,measles_coverage,50.42
+Sub-Saharan Africa,1999,measles_coverage,48.69
+Sub-Saharan Africa,2000,measles_coverage,49.92
+Sub-Saharan Africa,2001,measles_coverage,51.81
+Sub-Saharan Africa,2002,measles_coverage,53.27
+Sub-Saharan Africa,2003,measles_coverage,56.12
+Sub-Saharan Africa,2004,measles_coverage,58.6
+Sub-Saharan Africa,2005,measles_coverage,60.58
+Sub-Saharan Africa,2006,measles_coverage,63.31
+Sub-Saharan Africa,2007,measles_coverage,64.41
+Sub-Saharan Africa,2008,measles_coverage,67.24
+Sub-Saharan Africa,2009,measles_coverage,71.5
+Sub-Saharan Africa,2010,measles_coverage,71.27
+Sub-Saharan Africa,2011,measles_coverage,70.72
+Sub-Saharan Africa,2012,measles_coverage,69.42
+Sub-Saharan Africa,2013,measles_coverage,68.41
+Sub-Saharan Africa,2014,measles_coverage,68.25
+Sub-Saharan Africa,2015,measles_coverage,67.91
+Sub-Saharan Africa,2016,measles_coverage,68.26
+Sub-Saharan Africa,2017,measles_coverage,69.75
+Sub-Saharan Africa,2018,measles_coverage,70.27
+Sub-Saharan Africa,2019,measles_coverage,71.05
+Sub-Saharan Africa,2020,measles_coverage,69.8
+Sub-Saharan Africa,2021,measles_coverage,68.11
+Sub-Saharan Africa,2022,measles_coverage,67.59
+Sub-Saharan Africa,2023,measles_coverage,68.28
+Sub-Saharan Africa,2024,measles_coverage,69.07
+World,1990,measles_coverage,72.74
+World,1991,measles_coverage,68.86
+World,1992,measles_coverage,69.44
+World,1993,measles_coverage,69.99
+World,1994,measles_coverage,71.57
+World,1995,measles_coverage,73.38
+World,1996,measles_coverage,73.23
+World,1997,measles_coverage,71.13
+World,1998,measles_coverage,70.55
+World,1999,measles_coverage,71.25
+World,2000,measles_coverage,71.52
+World,2001,measles_coverage,72.5
+World,2002,measles_coverage,72.05
+World,2003,measles_coverage,73.68
+World,2004,measles_coverage,75.65
+World,2005,measles_coverage,77.08
+World,2006,measles_coverage,78.79
+World,2007,measles_coverage,79.19
+World,2008,measles_coverage,80.82
+World,2009,measles_coverage,83.24
+World,2010,measles_coverage,83.93
+World,2011,measles_coverage,84.5
+World,2012,measles_coverage,83.85
+World,2013,measles_coverage,83.96
+World,2014,measles_coverage,84.29
+World,2015,measles_coverage,84.7
+World,2016,measles_coverage,85.05
+World,2017,measles_coverage,85.33
+World,2018,measles_coverage,86.42
+World,2019,measles_coverage,86.23
+World,2020,measles_coverage,83.88
+World,2021,measles_coverage,82.04
+World,2022,measles_coverage,83.69
+World,2023,measles_coverage,83.01
+World,2024,measles_coverage,84.3
+Cameroon,2000,tb_treatment_coverage,42.0
+Cameroon,2001,tb_treatment_coverage,56.0
+Cameroon,2002,tb_treatment_coverage,41.0
+Cameroon,2003,tb_treatment_coverage,49.0
+Cameroon,2004,tb_treatment_coverage,45.0
+Cameroon,2005,tb_treatment_coverage,49.0
+Cameroon,2006,tb_treatment_coverage,49.0
+Cameroon,2007,tb_treatment_coverage,48.0
+Cameroon,2008,tb_treatment_coverage,47.0
 Cameroon,2009,tb_treatment_coverage,46.0
 Cameroon,2010,tb_treatment_coverage,45.0
 Cameroon,2011,tb_treatment_coverage,47.0
 Cameroon,2012,tb_treatment_coverage,48.0
 Cameroon,2013,tb_treatment_coverage,50.0
 Cameroon,2014,tb_treatment_coverage,52.0
-Cameroon,2015,tb_treatment_coverage,53.0
-Cameroon,2016,tb_treatment_coverage,53.0
-Cameroon,2017,tb_treatment_coverage,51.0
-Cameroon,2018,tb_treatment_coverage,50.0
-Ethiopia,2000,tb_treatment_coverage,33.0
-Ethiopia,2001,tb_treatment_coverage,34.0
-Ethiopia,2002,tb_treatment_coverage,40.0
-Ethiopia,2003,tb_treatment_coverage,43.0
-Ethiopia,2004,tb_treatment_coverage,46.0
-Ethiopia,2005,tb_treatment_coverage,48.0
-Ethiopia,2006,tb_treatment_coverage,48.0
-Ethiopia,2007,tb_treatment_coverage,51.0
-Ethiopia,2008,tb_treatment_coverage,57.0
-Ethiopia,2009,tb_treatment_coverage,62.0
-Ethiopia,2010,tb_treatment_coverage,66.0
-Ethiopia,2011,tb_treatment_coverage,69.0
-Ethiopia,2012,tb_treatment_coverage,66.0
-Ethiopia,2013,tb_treatment_coverage,62.0
-Ethiopia,2014,tb_treatment_coverage,59.0
-Ethiopia,2015,tb_treatment_coverage,70.0
-Ethiopia,2016,tb_treatment_coverage,68.0
-Ethiopia,2017,tb_treatment_coverage,67.0
-Ethiopia,2018,tb_treatment_coverage,69.0
+Cameroon,2015,tb_treatment_coverage,54.0
+Cameroon,2016,tb_treatment_coverage,54.0
+Cameroon,2017,tb_treatment_coverage,54.0
+Cameroon,2018,tb_treatment_coverage,53.0
+Cameroon,2019,tb_treatment_coverage,57.0
+Cameroon,2020,tb_treatment_coverage,53.0
+Cameroon,2021,tb_treatment_coverage,55.0
+Cameroon,2022,tb_treatment_coverage,63.0
+Cameroon,2023,tb_treatment_coverage,65.0
+Cameroon,2024,tb_treatment_coverage,69.0
+Ethiopia,2000,tb_treatment_coverage,28.0
+Ethiopia,2001,tb_treatment_coverage,30.0
+Ethiopia,2002,tb_treatment_coverage,35.0
+Ethiopia,2003,tb_treatment_coverage,39.0
+Ethiopia,2004,tb_treatment_coverage,42.0
+Ethiopia,2005,tb_treatment_coverage,43.0
+Ethiopia,2006,tb_treatment_coverage,44.0
+Ethiopia,2007,tb_treatment_coverage,48.0
+Ethiopia,2008,tb_treatment_coverage,54.0
+Ethiopia,2009,tb_treatment_coverage,59.0
+Ethiopia,2010,tb_treatment_coverage,63.0
+Ethiopia,2011,tb_treatment_coverage,66.0
+Ethiopia,2012,tb_treatment_coverage,64.0
+Ethiopia,2013,tb_treatment_coverage,60.0
+Ethiopia,2014,tb_treatment_coverage,56.0
+Ethiopia,2015,tb_treatment_coverage,66.0
+Ethiopia,2016,tb_treatment_coverage,62.0
+Ethiopia,2017,tb_treatment_coverage,59.0
+Ethiopia,2018,tb_treatment_coverage,59.0
+Ethiopia,2019,tb_treatment_coverage,59.0
+Ethiopia,2020,tb_treatment_coverage,58.0
+Ethiopia,2021,tb_treatment_coverage,57.0
+Ethiopia,2022,tb_treatment_coverage,62.0
+Ethiopia,2023,tb_treatment_coverage,73.0
+Ethiopia,2024,tb_treatment_coverage,81.0
 Ghana,2000,tb_treatment_coverage,26.0
 Ghana,2001,tb_treatment_coverage,28.0
 Ghana,2002,tb_treatment_coverage,27.0
 Ghana,2003,tb_treatment_coverage,27.0
-Ghana,2004,tb_treatment_coverage,27.0
+Ghana,2004,tb_treatment_coverage,26.0
 Ghana,2005,tb_treatment_coverage,27.0
-Ghana,2006,tb_treatment_coverage,28.0
+Ghana,2006,tb_treatment_coverage,27.0
 Ghana,2007,tb_treatment_coverage,28.0
-Ghana,2008,tb_treatment_coverage,31.0
-Ghana,2009,tb_treatment_coverage,33.0
-Ghana,2010,tb_treatment_coverage,32.0
-Ghana,2011,tb_treatment_coverage,34.0
-Ghana,2012,tb_treatment_coverage,33.0
-Ghana,2013,tb_treatment_coverage,34.0
-Ghana,2014,tb_treatment_coverage,33.0
-Ghana,2015,tb_treatment_coverage,32.0
-Ghana,2016,tb_treatment_coverage,32.0
-Ghana,2017,tb_treatment_coverage,32.0
-Ghana,2018,tb_treatment_coverage,32.0
-Kenya,2000,tb_treatment_coverage,45.0
-Kenya,2001,tb_treatment_coverage,45.0
-Kenya,2002,tb_treatment_coverage,45.0
-Kenya,2003,tb_treatment_coverage,45.0
-Kenya,2004,tb_treatment_coverage,45.0
-Kenya,2005,tb_treatment_coverage,45.0
+Ghana,2008,tb_treatment_coverage,30.0
+Ghana,2009,tb_treatment_coverage,32.0
+Ghana,2010,tb_treatment_coverage,31.0
+Ghana,2011,tb_treatment_coverage,33.0
+Ghana,2012,tb_treatment_coverage,32.0
+Ghana,2013,tb_treatment_coverage,33.0
+Ghana,2014,tb_treatment_coverage,32.0
+Ghana,2015,tb_treatment_coverage,31.0
+Ghana,2016,tb_treatment_coverage,31.0
+Ghana,2017,tb_treatment_coverage,31.0
+Ghana,2018,tb_treatment_coverage,31.0
+Ghana,2019,tb_treatment_coverage,33.0
+Ghana,2020,tb_treatment_coverage,28.0
+Ghana,2021,tb_treatment_coverage,30.0
+Ghana,2022,tb_treatment_coverage,38.0
+Ghana,2023,tb_treatment_coverage,44.0
+Ghana,2024,tb_treatment_coverage,46.0
+Kenya,2000,tb_treatment_coverage,46.0
+Kenya,2001,tb_treatment_coverage,46.0
+Kenya,2002,tb_treatment_coverage,46.0
+Kenya,2003,tb_treatment_coverage,46.0
+Kenya,2004,tb_treatment_coverage,46.0
+Kenya,2005,tb_treatment_coverage,46.0
 Kenya,2006,tb_treatment_coverage,45.0
 Kenya,2007,tb_treatment_coverage,45.0
 Kenya,2008,tb_treatment_coverage,45.0
@@ -848,259 +1566,452 @@ Kenya,2012,tb_treatment_coverage,45.0
 Kenya,2013,tb_treatment_coverage,45.0
 Kenya,2014,tb_treatment_coverage,45.0
 Kenya,2015,tb_treatment_coverage,45.0
-Kenya,2016,tb_treatment_coverage,45.0
-Kenya,2017,tb_treatment_coverage,52.0
-Kenya,2018,tb_treatment_coverage,63.0
-Niger,2000,tb_treatment_coverage,22.0
-Niger,2001,tb_treatment_coverage,24.0
-Niger,2002,tb_treatment_coverage,25.0
-Niger,2003,tb_treatment_coverage,35.0
-Niger,2004,tb_treatment_coverage,35.0
-Niger,2005,tb_treatment_coverage,40.0
-Niger,2006,tb_treatment_coverage,44.0
+Kenya,2016,tb_treatment_coverage,46.0
+Kenya,2017,tb_treatment_coverage,53.0
+Kenya,2018,tb_treatment_coverage,65.0
+Kenya,2019,tb_treatment_coverage,62.0
+Kenya,2020,tb_treatment_coverage,55.0
+Kenya,2021,tb_treatment_coverage,58.0
+Kenya,2022,tb_treatment_coverage,69.0
+Kenya,2023,tb_treatment_coverage,80.0
+Kenya,2024,tb_treatment_coverage,81.0
+Niger,2000,tb_treatment_coverage,49.0
+Niger,2001,tb_treatment_coverage,46.0
+Niger,2002,tb_treatment_coverage,41.0
+Niger,2003,tb_treatment_coverage,50.0
+Niger,2004,tb_treatment_coverage,44.0
+Niger,2005,tb_treatment_coverage,46.0
+Niger,2006,tb_treatment_coverage,47.0
 Niger,2007,tb_treatment_coverage,49.0
-Niger,2008,tb_treatment_coverage,49.0
-Niger,2009,tb_treatment_coverage,54.0
-Niger,2010,tb_treatment_coverage,54.0
-Niger,2011,tb_treatment_coverage,56.0
-Niger,2012,tb_treatment_coverage,59.0
-Niger,2013,tb_treatment_coverage,60.0
-Niger,2014,tb_treatment_coverage,57.0
-Niger,2015,tb_treatment_coverage,54.0
+Niger,2008,tb_treatment_coverage,46.0
+Niger,2009,tb_treatment_coverage,49.0
+Niger,2010,tb_treatment_coverage,48.0
+Niger,2011,tb_treatment_coverage,50.0
+Niger,2012,tb_treatment_coverage,53.0
+Niger,2013,tb_treatment_coverage,55.0
+Niger,2014,tb_treatment_coverage,54.0
+Niger,2015,tb_treatment_coverage,53.0
 Niger,2016,tb_treatment_coverage,52.0
-Niger,2017,tb_treatment_coverage,54.0
-Niger,2018,tb_treatment_coverage,55.0
-Nigeria,2000,tb_treatment_coverage,9.6
-Nigeria,2001,tb_treatment_coverage,17.0
-Nigeria,2002,tb_treatment_coverage,14.0
+Niger,2017,tb_treatment_coverage,55.0
+Niger,2018,tb_treatment_coverage,57.0
+Niger,2019,tb_treatment_coverage,61.0
+Niger,2020,tb_treatment_coverage,59.0
+Niger,2021,tb_treatment_coverage,65.0
+Niger,2022,tb_treatment_coverage,69.0
+Niger,2023,tb_treatment_coverage,71.0
+Niger,2024,tb_treatment_coverage,71.0
+Nigeria,2000,tb_treatment_coverage,9.3
+Nigeria,2001,tb_treatment_coverage,16.0
+Nigeria,2002,tb_treatment_coverage,13.0
 Nigeria,2003,tb_treatment_coverage,15.0
 Nigeria,2004,tb_treatment_coverage,19.0
-Nigeria,2005,tb_treatment_coverage,21.0
-Nigeria,2006,tb_treatment_coverage,23.0
-Nigeria,2007,tb_treatment_coverage,26.0
-Nigeria,2008,tb_treatment_coverage,26.0
-Nigeria,2009,tb_treatment_coverage,26.0
-Nigeria,2010,tb_treatment_coverage,24.0
-Nigeria,2011,tb_treatment_coverage,24.0
-Nigeria,2012,tb_treatment_coverage,25.0
-Nigeria,2013,tb_treatment_coverage,25.0
-Nigeria,2014,tb_treatment_coverage,22.0
-Nigeria,2015,tb_treatment_coverage,22.0
-Nigeria,2016,tb_treatment_coverage,24.0
-Nigeria,2017,tb_treatment_coverage,24.0
-Nigeria,2018,tb_treatment_coverage,24.0
-South Africa,2000,tb_treatment_coverage,57.0
-South Africa,2001,tb_treatment_coverage,49.0
-South Africa,2002,tb_treatment_coverage,63.0
-South Africa,2003,tb_treatment_coverage,59.0
-South Africa,2004,tb_treatment_coverage,64.0
-South Africa,2005,tb_treatment_coverage,61.0
-South Africa,2006,tb_treatment_coverage,65.0
-South Africa,2007,tb_treatment_coverage,66.0
-South Africa,2008,tb_treatment_coverage,72.0
-South Africa,2009,tb_treatment_coverage,74.0
-South Africa,2010,tb_treatment_coverage,73.0
-South Africa,2011,tb_treatment_coverage,76.0
-South Africa,2012,tb_treatment_coverage,69.0
-South Africa,2013,tb_treatment_coverage,69.0
-South Africa,2014,tb_treatment_coverage,68.0
-South Africa,2015,tb_treatment_coverage,68.0
-South Africa,2016,tb_treatment_coverage,68.0
-South Africa,2017,tb_treatment_coverage,75.0
-South Africa,2018,tb_treatment_coverage,76.0
-Cameroon,1990,under5_mortality,138.6
-Cameroon,1991,under5_mortality,140.3
-Cameroon,1992,under5_mortality,142.7
-Cameroon,1993,under5_mortality,145.4
-Cameroon,1994,under5_mortality,148.1
-Cameroon,1995,under5_mortality,150.5
-Cameroon,1996,under5_mortality,152.3
-Cameroon,1997,under5_mortality,153.4
-Cameroon,1998,under5_mortality,153.5
-Cameroon,1999,under5_mortality,152.4
-Cameroon,2000,under5_mortality,150.3
-Cameroon,2001,under5_mortality,147.2
-Cameroon,2002,under5_mortality,143.6
-Cameroon,2003,under5_mortality,139.8
-Cameroon,2004,under5_mortality,136.0
-Cameroon,2005,under5_mortality,132.2
-Cameroon,2006,under5_mortality,128.2
-Cameroon,2007,under5_mortality,124.2
-Cameroon,2008,under5_mortality,119.7
-Cameroon,2009,under5_mortality,115.4
-Cameroon,2010,under5_mortality,110.4
-Cameroon,2011,under5_mortality,105.8
-Cameroon,2012,under5_mortality,101.5
-Cameroon,2013,under5_mortality,97.4
-Cameroon,2014,under5_mortality,93.8
-Cameroon,2015,under5_mortality,90.1
-Cameroon,2016,under5_mortality,86.8
-Cameroon,2017,under5_mortality,84.0
+Nigeria,2005,tb_treatment_coverage,20.0
+Nigeria,2006,tb_treatment_coverage,22.0
+Nigeria,2007,tb_treatment_coverage,25.0
+Nigeria,2008,tb_treatment_coverage,25.0
+Nigeria,2009,tb_treatment_coverage,25.0
+Nigeria,2010,tb_treatment_coverage,23.0
+Nigeria,2011,tb_treatment_coverage,23.0
+Nigeria,2012,tb_treatment_coverage,24.0
+Nigeria,2013,tb_treatment_coverage,24.0
+Nigeria,2014,tb_treatment_coverage,21.0
+Nigeria,2015,tb_treatment_coverage,21.0
+Nigeria,2016,tb_treatment_coverage,23.0
+Nigeria,2017,tb_treatment_coverage,23.0
+Nigeria,2018,tb_treatment_coverage,23.0
+Nigeria,2019,tb_treatment_coverage,26.0
+Nigeria,2020,tb_treatment_coverage,29.0
+Nigeria,2021,tb_treatment_coverage,43.0
+Nigeria,2022,tb_treatment_coverage,58.0
+Nigeria,2023,tb_treatment_coverage,74.0
+Nigeria,2024,tb_treatment_coverage,79.0
+South Africa,2000,tb_treatment_coverage,42.0
+South Africa,2001,tb_treatment_coverage,36.0
+South Africa,2002,tb_treatment_coverage,46.0
+South Africa,2003,tb_treatment_coverage,44.0
+South Africa,2004,tb_treatment_coverage,47.0
+South Africa,2005,tb_treatment_coverage,45.0
+South Africa,2006,tb_treatment_coverage,48.0
+South Africa,2007,tb_treatment_coverage,49.0
+South Africa,2008,tb_treatment_coverage,54.0
+South Africa,2009,tb_treatment_coverage,55.0
+South Africa,2010,tb_treatment_coverage,55.0
+South Africa,2011,tb_treatment_coverage,57.0
+South Africa,2012,tb_treatment_coverage,52.0
+South Africa,2013,tb_treatment_coverage,52.0
+South Africa,2014,tb_treatment_coverage,52.0
+South Africa,2015,tb_treatment_coverage,51.0
+South Africa,2016,tb_treatment_coverage,51.0
+South Africa,2017,tb_treatment_coverage,57.0
+South Africa,2018,tb_treatment_coverage,57.0
+South Africa,2019,tb_treatment_coverage,57.0
+South Africa,2020,tb_treatment_coverage,56.0
+South Africa,2021,tb_treatment_coverage,55.0
+South Africa,2022,tb_treatment_coverage,73.0
+South Africa,2023,tb_treatment_coverage,79.0
+South Africa,2024,tb_treatment_coverage,74.0
+Sub-Saharan Africa,2000,tb_treatment_coverage,33.0
+Sub-Saharan Africa,2001,tb_treatment_coverage,35.0
+Sub-Saharan Africa,2002,tb_treatment_coverage,38.0
+Sub-Saharan Africa,2003,tb_treatment_coverage,40.0
+Sub-Saharan Africa,2004,tb_treatment_coverage,41.0
+Sub-Saharan Africa,2005,tb_treatment_coverage,41.0
+Sub-Saharan Africa,2006,tb_treatment_coverage,42.0
+Sub-Saharan Africa,2007,tb_treatment_coverage,42.0
+Sub-Saharan Africa,2008,tb_treatment_coverage,44.0
+Sub-Saharan Africa,2009,tb_treatment_coverage,45.0
+Sub-Saharan Africa,2010,tb_treatment_coverage,46.0
+Sub-Saharan Africa,2011,tb_treatment_coverage,46.0
+Sub-Saharan Africa,2012,tb_treatment_coverage,45.0
+Sub-Saharan Africa,2013,tb_treatment_coverage,45.0
+Sub-Saharan Africa,2014,tb_treatment_coverage,44.0
+Sub-Saharan Africa,2015,tb_treatment_coverage,45.0
+Sub-Saharan Africa,2016,tb_treatment_coverage,46.0
+Sub-Saharan Africa,2017,tb_treatment_coverage,48.0
+Sub-Saharan Africa,2018,tb_treatment_coverage,51.0
+Sub-Saharan Africa,2019,tb_treatment_coverage,53.0
+Sub-Saharan Africa,2020,tb_treatment_coverage,52.0
+Sub-Saharan Africa,2021,tb_treatment_coverage,56.0
+Sub-Saharan Africa,2022,tb_treatment_coverage,66.0
+Sub-Saharan Africa,2023,tb_treatment_coverage,72.0
+Sub-Saharan Africa,2024,tb_treatment_coverage,73.0
+World,2000,tb_treatment_coverage,32.0
+World,2001,tb_treatment_coverage,33.0
+World,2002,tb_treatment_coverage,34.0
+World,2003,tb_treatment_coverage,37.0
+World,2004,tb_treatment_coverage,40.0
+World,2005,tb_treatment_coverage,42.0
+World,2006,tb_treatment_coverage,45.0
+World,2007,tb_treatment_coverage,46.0
+World,2008,tb_treatment_coverage,48.0
+World,2009,tb_treatment_coverage,49.0
+World,2010,tb_treatment_coverage,49.0
+World,2011,tb_treatment_coverage,50.0
+World,2012,tb_treatment_coverage,50.0
+World,2013,tb_treatment_coverage,50.0
+World,2014,tb_treatment_coverage,54.0
+World,2015,tb_treatment_coverage,55.0
+World,2016,tb_treatment_coverage,58.0
+World,2017,tb_treatment_coverage,59.0
+World,2018,tb_treatment_coverage,65.0
+World,2019,tb_treatment_coverage,68.0
+World,2020,tb_treatment_coverage,57.0
+World,2021,tb_treatment_coverage,62.0
+World,2022,tb_treatment_coverage,70.0
+World,2023,tb_treatment_coverage,76.0
+World,2024,tb_treatment_coverage,78.0
+Cameroon,1990,under5_mortality,137.4
+Cameroon,1991,under5_mortality,138.8
+Cameroon,1992,under5_mortality,140.9
+Cameroon,1993,under5_mortality,143.1
+Cameroon,1994,under5_mortality,145.4
+Cameroon,1995,under5_mortality,147.1
+Cameroon,1996,under5_mortality,148.2
+Cameroon,1997,under5_mortality,148.4
+Cameroon,1998,under5_mortality,147.8
+Cameroon,1999,under5_mortality,146.4
+Cameroon,2000,under5_mortality,143.9
+Cameroon,2001,under5_mortality,141.0
+Cameroon,2002,under5_mortality,137.6
+Cameroon,2003,under5_mortality,134.3
+Cameroon,2004,under5_mortality,130.9
+Cameroon,2005,under5_mortality,127.6
+Cameroon,2006,under5_mortality,124.2
+Cameroon,2007,under5_mortality,120.8
+Cameroon,2008,under5_mortality,117.2
+Cameroon,2009,under5_mortality,113.7
+Cameroon,2010,under5_mortality,109.5
+Cameroon,2011,under5_mortality,105.2
+Cameroon,2012,under5_mortality,100.8
+Cameroon,2013,under5_mortality,96.5
+Cameroon,2014,under5_mortality,92.4
+Cameroon,2015,under5_mortality,88.5
+Cameroon,2016,under5_mortality,85.1
+Cameroon,2017,under5_mortality,81.9
+Cameroon,2018,under5_mortality,78.9
+Cameroon,2019,under5_mortality,76.6
+Cameroon,2020,under5_mortality,74.4
+Cameroon,2021,under5_mortality,71.9
+Cameroon,2022,under5_mortality,69.4
+Cameroon,2023,under5_mortality,67.0
+Cameroon,2024,under5_mortality,64.8
 Ethiopia,1990,under5_mortality,202.0
-Ethiopia,1991,under5_mortality,197.4
-Ethiopia,1992,under5_mortality,192.1
-Ethiopia,1993,under5_mortality,186.3
-Ethiopia,1994,under5_mortality,179.9
-Ethiopia,1995,under5_mortality,173.2
-Ethiopia,1996,under5_mortality,166.6
-Ethiopia,1997,under5_mortality,160.3
-Ethiopia,1998,under5_mortality,154.3
-Ethiopia,1999,under5_mortality,148.4
-Ethiopia,2000,under5_mortality,142.6
-Ethiopia,2001,under5_mortality,136.6
-Ethiopia,2002,under5_mortality,130.4
-Ethiopia,2003,under5_mortality,124.0
-Ethiopia,2004,under5_mortality,117.5
-Ethiopia,2005,under5_mortality,111.0
-Ethiopia,2006,under5_mortality,104.9
-Ethiopia,2007,under5_mortality,99.0
-Ethiopia,2008,under5_mortality,93.5
-Ethiopia,2009,under5_mortality,88.4
-Ethiopia,2010,under5_mortality,83.7
-Ethiopia,2011,under5_mortality,79.2
-Ethiopia,2012,under5_mortality,75.1
+Ethiopia,1991,under5_mortality,197.0
+Ethiopia,1992,under5_mortality,191.5
+Ethiopia,1993,under5_mortality,185.5
+Ethiopia,1994,under5_mortality,178.9
+Ethiopia,1995,under5_mortality,172.3
+Ethiopia,1996,under5_mortality,165.6
+Ethiopia,1997,under5_mortality,159.0
+Ethiopia,1998,under5_mortality,152.5
+Ethiopia,1999,under5_mortality,146.3
+Ethiopia,2000,under5_mortality,140.1
+Ethiopia,2001,under5_mortality,133.8
+Ethiopia,2002,under5_mortality,127.4
+Ethiopia,2003,under5_mortality,121.0
+Ethiopia,2004,under5_mortality,114.6
+Ethiopia,2005,under5_mortality,108.3
+Ethiopia,2006,under5_mortality,102.4
+Ethiopia,2007,under5_mortality,96.9
+Ethiopia,2008,under5_mortality,91.8
+Ethiopia,2009,under5_mortality,87.1
+Ethiopia,2010,under5_mortality,82.7
+Ethiopia,2011,under5_mortality,78.6
+Ethiopia,2012,under5_mortality,74.8
 Ethiopia,2013,under5_mortality,71.2
-Ethiopia,2014,under5_mortality,67.5
-Ethiopia,2015,under5_mortality,64.2
-Ethiopia,2016,under5_mortality,61.2
-Ethiopia,2017,under5_mortality,58.5
-Ghana,1990,under5_mortality,126.5
-Ghana,1991,under5_mortality,122.1
-Ghana,1992,under5_mortality,118.7
-Ghana,1993,under5_mortality,116.0
-Ghana,1994,under5_mortality,114.0
-Ghana,1995,under5_mortality,112.2
-Ghana,1996,under5_mortality,110.3
-Ghana,1997,under5_mortality,108.1
-Ghana,1998,under5_mortality,105.5
-Ghana,1999,under5_mortality,102.5
-Ghana,2000,under5_mortality,99.2
-Ghana,2001,under5_mortality,95.9
-Ghana,2002,under5_mortality,92.8
-Ghana,2003,under5_mortality,90.1
-Ghana,2004,under5_mortality,87.8
-Ghana,2005,under5_mortality,85.7
-Ghana,2006,under5_mortality,83.7
-Ghana,2007,under5_mortality,81.5
-Ghana,2008,under5_mortality,78.9
-Ghana,2009,under5_mortality,75.9
-Ghana,2010,under5_mortality,72.4
-Ghana,2011,under5_mortality,68.9
-Ghana,2012,under5_mortality,65.2
-Ghana,2013,under5_mortality,61.5
-Ghana,2014,under5_mortality,58.0
-Ghana,2015,under5_mortality,54.7
-Ghana,2016,under5_mortality,51.8
-Ghana,2017,under5_mortality,49.3
-Kenya,1990,under5_mortality,103.7
-Kenya,1991,under5_mortality,106.5
-Kenya,1992,under5_mortality,109.2
-Kenya,1993,under5_mortality,111.4
-Kenya,1994,under5_mortality,113.1
-Kenya,1995,under5_mortality,113.9
-Kenya,1996,under5_mortality,114.0
-Kenya,1997,under5_mortality,113.1
-Kenya,1998,under5_mortality,111.1
-Kenya,1999,under5_mortality,108.2
-Kenya,2000,under5_mortality,104.5
-Kenya,2001,under5_mortality,100.0
-Kenya,2002,under5_mortality,95.1
-Kenya,2003,under5_mortality,89.9
-Kenya,2004,under5_mortality,84.7
-Kenya,2005,under5_mortality,79.2
-Kenya,2006,under5_mortality,74.3
-Kenya,2007,under5_mortality,69.9
-Kenya,2008,under5_mortality,65.4
-Kenya,2009,under5_mortality,61.1
-Kenya,2010,under5_mortality,58.4
-Kenya,2011,under5_mortality,56.3
-Kenya,2012,under5_mortality,54.4
-Kenya,2013,under5_mortality,52.3
-Kenya,2014,under5_mortality,50.5
-Kenya,2015,under5_mortality,48.7
-Kenya,2016,under5_mortality,47.1
-Kenya,2017,under5_mortality,45.6
-Niger,1990,under5_mortality,326.5
-Niger,1991,under5_mortality,319.9
-Niger,1992,under5_mortality,311.6
-Niger,1993,under5_mortality,301.6
-Niger,1994,under5_mortality,289.9
-Niger,1995,under5_mortality,277.4
-Niger,1996,under5_mortality,264.7
-Niger,1997,under5_mortality,253.3
-Niger,1998,under5_mortality,242.8
-Niger,1999,under5_mortality,233.2
-Niger,2000,under5_mortality,223.7
-Niger,2001,under5_mortality,213.8
-Niger,2002,under5_mortality,203.1
-Niger,2003,under5_mortality,191.8
-Niger,2004,under5_mortality,180.4
-Niger,2005,under5_mortality,169.2
-Niger,2006,under5_mortality,158.5
-Niger,2007,under5_mortality,148.7
-Niger,2008,under5_mortality,139.6
-Niger,2009,under5_mortality,131.3
-Niger,2010,under5_mortality,123.6
-Niger,2011,under5_mortality,116.4
-Niger,2012,under5_mortality,109.9
-Niger,2013,under5_mortality,104.1
-Niger,2014,under5_mortality,98.6
-Niger,2015,under5_mortality,93.5
-Niger,2016,under5_mortality,88.7
-Niger,2017,under5_mortality,84.5
-Nigeria,1990,under5_mortality,211.9
-Nigeria,1991,under5_mortality,211.4
-Nigeria,1992,under5_mortality,210.8
-Nigeria,1993,under5_mortality,209.9
-Nigeria,1994,under5_mortality,208.8
-Nigeria,1995,under5_mortality,206.9
-Nigeria,1996,under5_mortality,204.3
-Nigeria,1997,under5_mortality,200.7
-Nigeria,1998,under5_mortality,196.4
-Nigeria,1999,under5_mortality,191.5
-Nigeria,2000,under5_mortality,186.2
-Nigeria,2001,under5_mortality,180.6
-Nigeria,2002,under5_mortality,174.9
-Nigeria,2003,under5_mortality,169.1
-Nigeria,2004,under5_mortality,163.2
-Nigeria,2005,under5_mortality,157.3
-Nigeria,2006,under5_mortality,151.5
-Nigeria,2007,under5_mortality,145.7
-Nigeria,2008,under5_mortality,140.1
-Nigeria,2009,under5_mortality,134.7
-Nigeria,2010,under5_mortality,129.6
-Nigeria,2011,under5_mortality,124.7
-Nigeria,2012,under5_mortality,119.9
-Nigeria,2013,under5_mortality,115.6
-Nigeria,2014,under5_mortality,111.6
-Nigeria,2015,under5_mortality,107.5
-Nigeria,2016,under5_mortality,103.8
-Nigeria,2017,under5_mortality,100.2
-South Africa,1990,under5_mortality,60.9
-South Africa,1991,under5_mortality,59.7
-South Africa,1992,under5_mortality,59.3
-South Africa,1993,under5_mortality,59.7
-South Africa,1994,under5_mortality,61.0
-South Africa,1995,under5_mortality,63.2
-South Africa,1996,under5_mortality,66.1
-South Africa,1997,under5_mortality,69.2
-South Africa,1998,under5_mortality,72.5
-South Africa,1999,under5_mortality,75.6
-South Africa,2000,under5_mortality,78.4
-South Africa,2001,under5_mortality,80.9
-South Africa,2002,under5_mortality,83.0
-South Africa,2003,under5_mortality,84.3
-South Africa,2004,under5_mortality,84.6
-South Africa,2005,under5_mortality,84.0
-South Africa,2006,under5_mortality,81.5
-South Africa,2007,under5_mortality,75.4
-South Africa,2008,under5_mortality,69.6
-South Africa,2009,under5_mortality,62.3
-South Africa,2010,under5_mortality,59.3
-South Africa,2011,under5_mortality,51.2
-South Africa,2012,under5_mortality,47.1
-South Africa,2013,under5_mortality,43.6
-South Africa,2014,under5_mortality,41.3
-South Africa,2015,under5_mortality,40.3
-South Africa,2016,under5_mortality,38.5
-South Africa,2017,under5_mortality,37.1
+Ethiopia,2014,under5_mortality,67.7
+Ethiopia,2015,under5_mortality,64.4
+Ethiopia,2016,under5_mortality,61.3
+Ethiopia,2017,under5_mortality,58.4
+Ethiopia,2018,under5_mortality,55.8
+Ethiopia,2019,under5_mortality,53.6
+Ethiopia,2020,under5_mortality,51.5
+Ethiopia,2021,under5_mortality,70.4
+Ethiopia,2022,under5_mortality,68.1
+Ethiopia,2023,under5_mortality,51.5
+Ethiopia,2024,under5_mortality,44.5
+Ghana,1990,under5_mortality,127.6
+Ghana,1991,under5_mortality,123.5
+Ghana,1992,under5_mortality,120.2
+Ghana,1993,under5_mortality,117.8
+Ghana,1994,under5_mortality,116.0
+Ghana,1995,under5_mortality,114.4
+Ghana,1996,under5_mortality,112.5
+Ghana,1997,under5_mortality,110.3
+Ghana,1998,under5_mortality,107.4
+Ghana,1999,under5_mortality,103.9
+Ghana,2000,under5_mortality,99.9
+Ghana,2001,under5_mortality,95.8
+Ghana,2002,under5_mortality,91.9
+Ghana,2003,under5_mortality,88.2
+Ghana,2004,under5_mortality,85.0
+Ghana,2005,under5_mortality,82.0
+Ghana,2006,under5_mortality,79.1
+Ghana,2007,under5_mortality,76.2
+Ghana,2008,under5_mortality,73.1
+Ghana,2009,under5_mortality,69.8
+Ghana,2010,under5_mortality,66.5
+Ghana,2011,under5_mortality,63.3
+Ghana,2012,under5_mortality,60.3
+Ghana,2013,under5_mortality,57.5
+Ghana,2014,under5_mortality,54.9
+Ghana,2015,under5_mortality,52.5
+Ghana,2016,under5_mortality,50.3
+Ghana,2017,under5_mortality,48.2
+Ghana,2018,under5_mortality,46.1
+Ghana,2019,under5_mortality,44.1
+Ghana,2020,under5_mortality,42.2
+Ghana,2021,under5_mortality,40.3
+Ghana,2022,under5_mortality,38.6
+Ghana,2023,under5_mortality,37.2
+Ghana,2024,under5_mortality,35.9
+Kenya,1990,under5_mortality,101.4
+Kenya,1991,under5_mortality,104.4
+Kenya,1992,under5_mortality,107.1
+Kenya,1993,under5_mortality,109.0
+Kenya,1994,under5_mortality,109.7
+Kenya,1995,under5_mortality,109.3
+Kenya,1996,under5_mortality,108.0
+Kenya,1997,under5_mortality,105.9
+Kenya,1998,under5_mortality,103.0
+Kenya,1999,under5_mortality,99.5
+Kenya,2000,under5_mortality,95.2
+Kenya,2001,under5_mortality,90.5
+Kenya,2002,under5_mortality,85.6
+Kenya,2003,under5_mortality,80.8
+Kenya,2004,under5_mortality,76.1
+Kenya,2005,under5_mortality,71.2
+Kenya,2006,under5_mortality,66.8
+Kenya,2007,under5_mortality,62.9
+Kenya,2008,under5_mortality,58.0
+Kenya,2009,under5_mortality,55.2
+Kenya,2010,under5_mortality,53.1
+Kenya,2011,under5_mortality,51.7
+Kenya,2012,under5_mortality,50.7
+Kenya,2013,under5_mortality,49.4
+Kenya,2014,under5_mortality,48.3
+Kenya,2015,under5_mortality,46.8
+Kenya,2016,under5_mortality,45.5
+Kenya,2017,under5_mortality,44.7
+Kenya,2018,under5_mortality,43.7
+Kenya,2019,under5_mortality,42.7
+Kenya,2020,under5_mortality,42.1
+Kenya,2021,under5_mortality,41.3
+Kenya,2022,under5_mortality,40.5
+Kenya,2023,under5_mortality,39.6
+Kenya,2024,under5_mortality,38.8
+Niger,1990,under5_mortality,332.4
+Niger,1991,under5_mortality,325.4
+Niger,1992,under5_mortality,316.7
+Niger,1993,under5_mortality,306.4
+Niger,1994,under5_mortality,294.3
+Niger,1995,under5_mortality,281.8
+Niger,1996,under5_mortality,269.4
+Niger,1997,under5_mortality,257.9
+Niger,1998,under5_mortality,247.2
+Niger,1999,under5_mortality,237.5
+Niger,2000,under5_mortality,227.9
+Niger,2001,under5_mortality,217.4
+Niger,2002,under5_mortality,205.9
+Niger,2003,under5_mortality,194.1
+Niger,2004,under5_mortality,182.4
+Niger,2005,under5_mortality,171.4
+Niger,2006,under5_mortality,161.6
+Niger,2007,under5_mortality,153.1
+Niger,2008,under5_mortality,146.0
+Niger,2009,under5_mortality,140.3
+Niger,2010,under5_mortality,136.0
+Niger,2011,under5_mortality,132.7
+Niger,2012,under5_mortality,130.3
+Niger,2013,under5_mortality,128.3
+Niger,2014,under5_mortality,126.8
+Niger,2015,under5_mortality,125.4
+Niger,2016,under5_mortality,124.3
+Niger,2017,under5_mortality,123.1
+Niger,2018,under5_mortality,121.9
+Niger,2019,under5_mortality,120.8
+Niger,2020,under5_mortality,119.5
+Niger,2021,under5_mortality,118.0
+Niger,2022,under5_mortality,116.0
+Niger,2023,under5_mortality,113.5
+Niger,2024,under5_mortality,110.7
+Nigeria,1990,under5_mortality,207.6
+Nigeria,1991,under5_mortality,206.7
+Nigeria,1992,under5_mortality,205.7
+Nigeria,1993,under5_mortality,204.6
+Nigeria,1994,under5_mortality,203.1
+Nigeria,1995,under5_mortality,201.0
+Nigeria,1996,under5_mortality,198.1
+Nigeria,1997,under5_mortality,194.3
+Nigeria,1998,under5_mortality,189.4
+Nigeria,1999,under5_mortality,183.6
+Nigeria,2000,under5_mortality,177.3
+Nigeria,2001,under5_mortality,170.5
+Nigeria,2002,under5_mortality,163.9
+Nigeria,2003,under5_mortality,157.4
+Nigeria,2004,under5_mortality,151.4
+Nigeria,2005,under5_mortality,145.8
+Nigeria,2006,under5_mortality,140.9
+Nigeria,2007,under5_mortality,136.5
+Nigeria,2008,under5_mortality,132.5
+Nigeria,2009,under5_mortality,129.2
+Nigeria,2010,under5_mortality,126.3
+Nigeria,2011,under5_mortality,123.8
+Nigeria,2012,under5_mortality,121.6
+Nigeria,2013,under5_mortality,119.9
+Nigeria,2014,under5_mortality,118.7
+Nigeria,2015,under5_mortality,117.8
+Nigeria,2016,under5_mortality,117.4
+Nigeria,2017,under5_mortality,117.2
+Nigeria,2018,under5_mortality,117.2
+Nigeria,2019,under5_mortality,117.4
+Nigeria,2020,under5_mortality,117.4
+Nigeria,2021,under5_mortality,117.6
+Nigeria,2022,under5_mortality,117.5
+Nigeria,2023,under5_mortality,116.8
+Nigeria,2024,under5_mortality,115.6
+South Africa,1990,under5_mortality,58.1
+South Africa,1991,under5_mortality,56.8
+South Africa,1992,under5_mortality,56.2
+South Africa,1993,under5_mortality,56.6
+South Africa,1994,under5_mortality,57.8
+South Africa,1995,under5_mortality,59.2
+South Africa,1996,under5_mortality,60.9
+South Africa,1997,under5_mortality,62.9
+South Africa,1998,under5_mortality,65.8
+South Africa,1999,under5_mortality,68.7
+South Africa,2000,under5_mortality,71.4
+South Africa,2001,under5_mortality,74.5
+South Africa,2002,under5_mortality,77.0
+South Africa,2003,under5_mortality,79.2
+South Africa,2004,under5_mortality,80.7
+South Africa,2005,under5_mortality,79.8
+South Africa,2006,under5_mortality,76.9
+South Africa,2007,under5_mortality,71.2
+South Africa,2008,under5_mortality,63.7
+South Africa,2009,under5_mortality,56.9
+South Africa,2010,under5_mortality,50.3
+South Africa,2011,under5_mortality,45.6
+South Africa,2012,under5_mortality,43.1
+South Africa,2013,under5_mortality,41.4
+South Africa,2014,under5_mortality,39.7
+South Africa,2015,under5_mortality,38.2
+South Africa,2016,under5_mortality,36.8
+South Africa,2017,under5_mortality,35.7
+South Africa,2018,under5_mortality,34.9
+South Africa,2019,under5_mortality,34.3
+South Africa,2020,under5_mortality,33.9
+South Africa,2021,under5_mortality,34.0
+South Africa,2022,under5_mortality,34.3
+South Africa,2023,under5_mortality,34.8
+South Africa,2024,under5_mortality,35.1
+Sub-Saharan Africa,1990,under5_mortality,178.5
+Sub-Saharan Africa,1991,under5_mortality,179.8
+Sub-Saharan Africa,1992,under5_mortality,178.5
+Sub-Saharan Africa,1993,under5_mortality,176.7
+Sub-Saharan Africa,1994,under5_mortality,173.5
+Sub-Saharan Africa,1995,under5_mortality,168.7
+Sub-Saharan Africa,1996,under5_mortality,169.4
+Sub-Saharan Africa,1997,under5_mortality,165.5
+Sub-Saharan Africa,1998,under5_mortality,164.7
+Sub-Saharan Africa,1999,under5_mortality,155.7
+Sub-Saharan Africa,2000,under5_mortality,150.4
+Sub-Saharan Africa,2001,under5_mortality,146.3
+Sub-Saharan Africa,2002,under5_mortality,138.9
+Sub-Saharan Africa,2003,under5_mortality,133.0
+Sub-Saharan Africa,2004,under5_mortality,127.7
+Sub-Saharan Africa,2005,under5_mortality,119.8
+Sub-Saharan Africa,2006,under5_mortality,114.0
+Sub-Saharan Africa,2007,under5_mortality,109.1
+Sub-Saharan Africa,2008,under5_mortality,104.5
+Sub-Saharan Africa,2009,under5_mortality,102.8
+Sub-Saharan Africa,2010,under5_mortality,97.2
+Sub-Saharan Africa,2011,under5_mortality,97.1
+Sub-Saharan Africa,2012,under5_mortality,90.7
+Sub-Saharan Africa,2013,under5_mortality,87.6
+Sub-Saharan Africa,2014,under5_mortality,86.8
+Sub-Saharan Africa,2015,under5_mortality,85.0
+Sub-Saharan Africa,2016,under5_mortality,83.4
+Sub-Saharan Africa,2017,under5_mortality,82.5
+Sub-Saharan Africa,2018,under5_mortality,79.0
+Sub-Saharan Africa,2019,under5_mortality,78.0
+Sub-Saharan Africa,2020,under5_mortality,75.9
+Sub-Saharan Africa,2021,under5_mortality,77.1
+Sub-Saharan Africa,2022,under5_mortality,78.3
+Sub-Saharan Africa,2023,under5_mortality,73.2
+Sub-Saharan Africa,2024,under5_mortality,71.2
+World,1990,under5_mortality,93.5
+World,1991,under5_mortality,92.9
+World,1992,under5_mortality,92.3
+World,1993,under5_mortality,91.1
+World,1994,under5_mortality,89.4
+World,1995,under5_mortality,87.5
+World,1996,under5_mortality,86.4
+World,1997,under5_mortality,84.3
+World,1998,under5_mortality,82.8
+World,1999,under5_mortality,79.4
+World,2000,under5_mortality,76.7
+World,2001,under5_mortality,74.3
+World,2002,under5_mortality,71.3
+World,2003,under5_mortality,68.3
+World,2004,under5_mortality,65.8
+World,2005,under5_mortality,62.3
+World,2006,under5_mortality,59.6
+World,2007,under5_mortality,57.0
+World,2008,under5_mortality,54.7
+World,2009,under5_mortality,52.9
+World,2010,under5_mortality,50.6
+World,2011,under5_mortality,49.5
+World,2012,under5_mortality,46.7
+World,2013,under5_mortality,45.1
+World,2014,under5_mortality,43.9
+World,2015,under5_mortality,42.9
+World,2016,under5_mortality,41.7
+World,2017,under5_mortality,40.9
+World,2018,under5_mortality,40.0
+World,2019,under5_mortality,39.6
+World,2020,under5_mortality,39.2
+World,2021,under5_mortality,39.6
+World,2022,under5_mortality,40.0
+World,2023,under5_mortality,38.3
+World,2024,under5_mortality,37.4
