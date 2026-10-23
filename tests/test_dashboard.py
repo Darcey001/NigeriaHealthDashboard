@@ -7,7 +7,7 @@ from streamlit.testing.v1 import AppTest
 from dashboard import analysis
 from dashboard.charts import spread_labels
 from dashboard.indicators import COUNTRIES, INDICATORS
-from pipeline.build_dataset import dataset_url, load_indicator
+from pipeline import build_dataset
 
 
 @pytest.fixture(scope="module")
@@ -45,23 +45,60 @@ def test_values_are_in_sensible_ranges(data):
 
 # ---------- the pipeline (no network needed) ----------
 
-def test_dataset_url_is_encoded():
-    url = dataset_url("Malaria deaths - IHME (2016)")
-    assert url.endswith("/Malaria%20deaths%20-%20IHME%20%282016%29/Malaria%20deaths%20-%20IHME%20%282016%29.csv")
+# Small samples in the exact shape the real APIs return
+WORLD_BANK_SAMPLE = [
+    [{"page": 1, "pages": 1, "per_page": 1000, "total": 3}, [
+        {"countryiso3code": "NGA", "date": "2023", "value": 993},
+        {"countryiso3code": "SSF", "date": "2023", "value": 448},
+        {"countryiso3code": "NGA", "date": "2024", "value": None},
+    ]],
+]
+
+WHO_SAMPLE = {
+    "value": [
+        {"SpatialDim": "NGA", "TimeDim": 2024, "Dim1": None, "NumericValue": 184933.0},
+        {"SpatialDim": "GLOBAL", "TimeDim": 2024, "Dim1": None, "NumericValue": 609930.0},
+        {"SpatialDim": "NGA", "TimeDim": 2024, "Dim1": "SEX_FMLE", "NumericValue": 1.0},
+        {"SpatialDim": "FRA", "TimeDim": 2024, "Dim1": None, "NumericValue": 0.0},
+    ]
+}
 
 
-def test_load_indicator_keeps_only_our_countries_and_years():
-    spec = INDICATORS["dtp3_coverage"]
-    raw = pd.DataFrame(
-        {
-            "Entity": ["Nigeria", "Nigeria", "France", "Ghana"],
-            "Year": [1985, 2000, 2000, 2001],
-            spec["column"]: [10, 30, 95, None],
-        }
-    )
-    tidy = load_indicator("dtp3_coverage", spec, {spec["dataset"]: raw})
-    assert tidy.to_dict("records") == [
-        {"country": "Nigeria", "year": 2000, "value": 30, "indicator": "dtp3_coverage"}
+def test_parse_world_bank_names_places_and_skips_gaps():
+    df = build_dataset.parse_world_bank(WORLD_BANK_SAMPLE)
+    assert df.to_dict("records") == [
+        {"country": "Nigeria", "year": 2023, "value": 993.0},
+        {"country": "Sub-Saharan Africa", "year": 2023, "value": 448.0},
+    ]
+
+
+def test_parse_who_keeps_only_totals_for_our_places():
+    df = build_dataset.parse_who(WHO_SAMPLE)
+    assert df.to_dict("records") == [
+        {"country": "Nigeria", "year": 2024, "value": 184933.0},
+        {"country": "World", "year": 2024, "value": 609930.0},
+    ]
+
+
+def test_api_urls():
+    wb = build_dataset.world_bank_url("SH.STA.MMRT")
+    assert wb.startswith("https://api.worldbank.org/v2/country/NGA;")
+    assert "indicator/SH.STA.MMRT?format=json" in wb
+    who = build_dataset.who_url("MALARIA_EST_DEATHS")
+    assert who.startswith("https://ghoapi.azureedge.net/api/MALARIA_EST_DEATHS?$filter=")
+    assert "%27NGA%27" in who and "%27GLOBAL%27" in who
+
+
+def test_tidy_combines_and_cleans():
+    frames = {
+        "maternal_mortality": pd.DataFrame(
+            {"country": ["Nigeria", "Nigeria", "Nigeria"], "year": [1985, 2023, 2023], "value": [1.234, 993.456, 993.456]}
+        ),
+        "life_expectancy": pd.DataFrame(columns=["country", "year", "value"]),
+    }
+    table = build_dataset.tidy(frames)
+    assert table.to_dict("records") == [
+        {"country": "Nigeria", "year": 2023, "indicator": "maternal_mortality", "value": 993.46}
     ]
 
 
@@ -104,7 +141,7 @@ def test_years_to_target():
 
 def test_key_findings_are_generated(conn):
     findings = analysis.key_findings(conn)
-    assert len(findings) == 5
+    assert len(findings) == len(INDICATORS) - 1  # measles is shown in charts only
     assert all(f.startswith("**") for f in findings)
 
 
@@ -124,7 +161,7 @@ def test_app_runs_without_errors():
     app = AppTest.from_file("../app.py", default_timeout=60).run()
     assert not app.exception
     assert app.title[0].value.endswith("Nigeria Health Dashboard")
-    assert len(app.metric) == 5
+    assert len(app.metric) == 6
 
 
 def test_app_handles_an_empty_selection():
