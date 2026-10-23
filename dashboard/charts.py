@@ -40,12 +40,32 @@ def _layout(fig: go.Figure, unit: str, height: int = 380) -> go.Figure:
 
 
 def spread_labels(labels: list[dict], min_gap: float) -> list[dict]:
-    """Moves end-of-line labels up or down just enough that none are closer than `min_gap`."""
-    placed = sorted(labels, key=lambda lab: lab["y"])
-    for i in range(1, len(placed)):
-        if placed[i]["y"] - placed[i - 1]["y"] < min_gap:
-            placed[i] = {**placed[i], "y": placed[i - 1]["y"] + min_gap}
+    """Moves end-of-line labels apart so none are closer than `min_gap`.
+
+    Crowded labels are spread evenly around the middle of their group,
+    so each one stays as close as possible to its own line.
+    """
+    groups: list[list[dict]] = []
+    for label in sorted(labels, key=lambda lab: lab["y"]):
+        groups.append([label])
+        # Merge groups that would overlap, then re-centre them, until nothing overlaps
+        while len(groups) > 1:
+            below, above = groups[-2], groups[-1]
+            below_top = _centre(below, min_gap) + (len(below) - 1) * min_gap / 2
+            above_bottom = _centre(above, min_gap) - (len(above) - 1) * min_gap / 2
+            if above_bottom - below_top >= min_gap:
+                break
+            groups[-2:] = [below + above]
+
+    placed = []
+    for group in groups:
+        start = _centre(group, min_gap) - (len(group) - 1) * min_gap / 2
+        placed += [{**lab, "y": start + i * min_gap} for i, lab in enumerate(group)]
     return placed
+
+
+def _centre(group: list[dict], min_gap: float) -> float:
+    return sum(lab["y"] for lab in group) / len(group)
 
 
 def trend_chart(
