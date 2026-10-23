@@ -1,0 +1,33 @@
+name: Build dataset
+
+# Rebuilds data/health_indicators.csv from the original sources and commits it
+# whenever the pipeline or indicator list changes (or when run by hand).
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "pipeline/**"
+      - "dashboard/indicators.py"
+      - ".github/workflows/build-data.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - run: pip install pandas==3.0.5
+      - run: python pipeline/build_dataset.py
+      - name: Commit the dataset if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/health_indicators.csv
+          git diff --cached --quiet || git commit -m "Update dataset from sources"
+          git push
