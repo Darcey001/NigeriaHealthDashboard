@@ -2,7 +2,7 @@
 
 An interactive dashboard that tracks how Nigeria is doing on **maternal and child health, malaria, vaccines and tuberculosis**, and compares it with neighbouring countries. Built with **Python, pandas, SQL (SQLite), Plotly and Streamlit**.
 
-![Tests](https://github.com/Darcey001/nigeria-health-dashboard/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/Darcey001/NigeriaHealthDashboard/actions/workflows/tests.yml/badge.svg)
 
 **🔗 Live dashboard:** [nigeria-health-dashboard.onrender.com](https://nigeria-health-dashboard.onrender.com) (the free server sleeps when unused, so the first visit can take about a minute)
 
