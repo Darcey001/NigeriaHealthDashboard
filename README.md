@@ -1,16 +1,16 @@
-# 🩺 Nigeria Health Dashboard
+# Nigeria Health Dashboard
 
 An interactive dashboard that tracks how Nigeria is doing on **maternal and child health, malaria, vaccines and tuberculosis**, and compares it with neighbouring countries. Built with **Python, pandas, SQL (SQLite), Plotly and Streamlit**.
 
 ![Tests](https://github.com/Darcey001/NigeriaHealthDashboard/actions/workflows/tests.yml/badge.svg)
 
-**🔗 Live dashboard:** [nigeria-health-dashboard.onrender.com](https://nigeria-health-dashboard.onrender.com) (the free server sleeps when unused, so the first visit can take about a minute)
+** Live dashboard:** [nigeria-health-dashboard.onrender.com](https://nigeria-health-dashboard.onrender.com) (the free server sleeps when unused, so the first visit can take about a minute)
 
 ## Why I built this
 
 Before studying computer science, I trained in medicine. Nigeria carries some of the world's heaviest burdens of preventable maternal and child deaths, and I wanted to see the trends clearly: where things have improved, where they have stalled, and how far there is to go. This project turns the latest official World Bank, UN and WHO data into something anyone can explore.
 
-## 🔍 Key findings
+## Key findings
 
 | | Nigeria | What it means |
 |---|---|---|
@@ -23,7 +23,7 @@ Before studying computer science, I trained in medicine. Nigeria carries some of
 
 The dashboard works these out from the data rather than hard-coding them, so they update when the data does.
 
-## ✨ Features
+##  Features
 
 - **Headline numbers** for Nigeria, with the change since the first year of data
 - **Key findings** generated from the data, including the yearly rate of decline and the years needed to reach the UN 2030 targets at that pace
@@ -33,7 +33,7 @@ The dashboard works these out from the data rather than hard-coding them, so the
 - **Data & SQL tab** showing the SQL behind the dashboard, the full dataset, and a CSV download
 - Works in **light and dark mode** and **on phones**
 
-## 🛠️ Tech stack
+## Tech stack
 
 | Part | Tools |
 |---|---|
@@ -44,7 +44,7 @@ The dashboard works these out from the data rather than hard-coding them, so the
 | Testing | pytest, Streamlit AppTest, GitHub Actions |
 | Hosting | Render |
 
-## 🏗️ How it works
+##  How it works
 
 ```
 World Bank API + WHO API
@@ -70,7 +70,7 @@ WHERE rn = 1
 ORDER BY value
 ```
 
-## 🚀 Run it locally
+##  Run it locally
 
 You need Python 3.11 or newer.
 
@@ -87,7 +87,7 @@ python pipeline/build_dataset.py
 
 This also happens automatically: a GitHub Action (`build-data.yml`) reruns the pipeline and commits the updated dataset whenever the pipeline or the list of indicators changes.
 
-## 🧪 Tests
+## Tests
 
 ```bash
 pytest
@@ -95,7 +95,7 @@ pytest
 
 16 tests check that the dataset is complete and valid (no gaps, duplicates or impossible values), that the API responses are parsed correctly, that the SQL queries and calculations are correct, that chart labels never overlap, and that the whole app runs without errors, including when every filter is cleared. They run automatically on every push.
 
-## 📚 Data sources
+## Data sources
 
 | Indicator | Source |
 |---|---|
@@ -108,12 +108,12 @@ pytest
 
 The most recent year differs by indicator (2023 or 2024), and each number on the dashboard shows the year it comes from. These are modelled estimates, and national averages hide big differences between Nigerian states.
 
-## 🗺️ What's next
+##  What's next
 
 - [x] Use the latest WHO and World Bank data
 - [ ] Add state-level data (Nigeria Demographic and Health Survey)
 - [ ] Show uncertainty ranges on the charts
 
-## 👩🏾‍💻 Author
+## Author
 
 **Praise Emmanuel** · [GitHub](https://github.com/Darcey001) · [LinkedIn](https://www.linkedin.com/in/praise-emmanuel-894047223/)
