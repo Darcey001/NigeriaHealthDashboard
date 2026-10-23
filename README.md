@@ -4,7 +4,7 @@ An interactive dashboard that tracks how Nigeria is doing on **maternal and chil
 
 ![Tests](https://github.com/Darcey001/nigeria-health-dashboard/actions/workflows/tests.yml/badge.svg)
 
-**🔗 Live dashboard:** *add your Render link here*
+**🔗 Live dashboard:** [nigeria-health-dashboard.onrender.com](https://nigeria-health-dashboard.onrender.com) (the free server sleeps when unused, so the first visit can take about a minute)
 
 ## Why I built this
 
